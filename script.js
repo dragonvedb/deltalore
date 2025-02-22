@@ -112,6 +112,21 @@ function getAnchorPoint(node, side) {
 
   drawEdges()
 
+  fetch('content/River Person.md')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.text();
+    })
+    .then(data => {
+        // Output the contents to the console
+        console.log(data);
+    })
+    .catch(error => {
+        console.error('Error fetching the file:', error);
+    });
+
 /*
   const nodeData = [
     {
