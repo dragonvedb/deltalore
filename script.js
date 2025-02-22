@@ -1,5 +1,8 @@
 const board = document.querySelector('main')
 const reader = document.getElementById('reader-widget')
+const readerContent = document.querySelector('#reader-widget .content')
+const readerCloseButton = document.querySelector('#reader-widget .close-button')
+readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'))
 
 panzoom(board, {
     bounds: true, 
@@ -48,7 +51,7 @@ function loadFile(filename) {
     .then(file => {
         let html = converter.makeHtml(file)
         reader.classList.remove('hidden')
-        reader.innerHTML = html
+        readerContent.innerHTML = html
     })
     .catch(error => {
         console.error('Error fetching the file:', error);

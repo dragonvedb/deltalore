@@ -50,6 +50,22 @@ main {
     scrollbar-width: none;
 }
 
+#reader-widget .close-button {
+    position: absolute; 
+    top: 0px; 
+    right: 0px;
+    z-index: 2000;
+    transform: translateX(3px) translateY(-3px); 
+    height: 30px; 
+    width: 30px; 
+    background-color: black;
+    color: white;
+    border: solid 3px white;
+    font-size: 22px; 
+    text-align: center; 
+    cursor: pointer;
+}
+
 .hidden {
     visibility: hidden;
 }
