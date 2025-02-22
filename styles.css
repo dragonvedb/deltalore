@@ -8,12 +8,12 @@
     margin: 0;
 }*/
 
-html, body {margin: 0; height: 100%; overflow: hidden}
+html, body {margin: 0; height: 100%; overflow: hidden; background-color: black;}
 
 main {
     min-height: 6000px;
     min-width: 8500px;
-    background: content-box radial-gradient(crimson, skyblue);;
+    background: content-box radial-gradient(closest-side, hsl(260deg 25% 15%), black);
 }
 
 #canvas-edges {
@@ -26,9 +26,16 @@ main {
     left: 0;
     width: 100%;
     height: 100%;
-  }
+}
 
-  #reader-widget {
+.node {
+    position: absolute;
+    background-color: black;
+    color: white;
+    border: solid 3px white;
+}
+
+#reader-widget {
     position: fixed;
     top: 25px;
     left: 50px;
@@ -40,8 +47,8 @@ main {
     border: solid 5px white;
     overflow-y: scroll;
     scrollbar-width: none;
-  }
+}
 
-  .hidden {
+.hidden {
     visibility: hidden;
-  }
+}
