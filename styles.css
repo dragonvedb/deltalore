@@ -17,7 +17,7 @@ main {
 }
 
 #canvas-edges {
-    z-index: 150;
+    z-index: 100;
     pointer-events: none;
     user-select: none;
     overflow:visible;
@@ -29,6 +29,7 @@ main {
 }
 
 .node {
+    z-index: 200;
     position: absolute;
     background-color: black;
     color: white;
