@@ -1,3 +1,23 @@
+let canvas = fetch(`DELTALORE_beta.canvas`)
+.then(response => {
+    if (!response.ok) { 
+        throw new Error('Network response was not ok');
+    }
+    return response.text();
+})
+.then(file => {
+    canvas = JSON.parse(file)
+    for (let i = 0; i < canvas.nodes.length; i++) {
+        createNode(canvas.nodes[i]);
+    }
+    drawEdges()
+    return 
+})
+.catch(error => {
+    console.error('Error fetching the file:', error);
+});
+
+
 const board = document.querySelector('main')
 const reader = document.getElementById('reader-widget')
 const readerContent = document.querySelector('#reader-widget .content')
@@ -60,9 +80,7 @@ const nodeData = [
 
 ]
 
-for (let i = 0; i < nodeData.length; i++) {
-    createNode(nodeData[i]);
-}
+
 
 function getAnchorPoint(node, side) {
     const x = parseInt(node.style.left, 10);
@@ -97,7 +115,7 @@ function getAnchorPoint(node, side) {
   function drawEdges() {
     const svgContainer = document.getElementById('edge-paths');
   
-    edgeData.forEach(edge => {
+    canvas.edges.forEach(edge => {
       const fromNode = document.getElementById(edge.fromNode);
       const toNode = document.getElementById(edge.toNode);
   
@@ -151,4 +169,3 @@ function getAnchorPoint(node, side) {
     });
   }
 
-  drawEdges()
