@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    max-height: 100vh;
+}
+
 main {
     min-height: 300vh;
     min-width: 300vh;
