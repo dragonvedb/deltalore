@@ -28,10 +28,12 @@ function createNode(data) {
     let node = document.createElement('div')
     node.setAttribute('id', data.id)
     node.setAttribute('class', 'node')
-    if (data.type = 'file') node.setAttribute('data-file', data.file)
     node.style.cssText = `left: ${data.x + 5000}px; top: ${data.y + 5300}px; width: ${data.width}px; height: ${data.height}px;`
     node.textContent = data[data.type]
-    node.addEventListener('click', e => loadFile(e.target.getAttribute('data-file')))
+    if (data.type == 'file') {
+        node.setAttribute('data-file', data.file)
+        node.addEventListener('click', e => loadFile(e.target.getAttribute('data-file')))
+    } 
     board.appendChild(node)
 }
 
