@@ -25,6 +25,9 @@ const nodeData = [
 	{"id":"cade8750930833c2","type":"text","text":"# Gaster Blasters","x":-1228,"y":-952,"width":258,"height":72},
 	{"id":"c8d872e4efae9920","type":"file","file":"Sans.md","x":-703,"y":-897,"width":262,"height":344},
     {"id":"1031dc2c679143dc","type":"file","file":"Mysterious Men.md","x":-1002,"y":-1732,"width":278,"height":120,"color":"5"},
+    {"id":"6aa9d91dad468dc7","type":"file","file":"Papyrus.md","x":-2045,"y":-923,"width":246,"height":367},
+	{"id":"dd8b825f0361b955","type":"file","file":"Papyrus.md","x":-122,"y":-649,"width":265,"height":400},
+    {"id":"45e813e6a1d0684e","type":"file","file":"River Person.md","x":-701,"y":-1402,"width":250,"height":243},
 
 ]
 
@@ -56,8 +59,11 @@ function getAnchorPoint(node, side) {
     {"id":"58bec9803645b6bb","fromNode":"d51f0adf51d6e97a","fromSide":"bottom","toNode":"2060522f9c0d01f7","toSide":"top","fromEnd":"arrow","color":"2","label":"related to"},
     {"id":"3b880575667b7f31","fromNode":"2060522f9c0d01f7","fromSide":"right","toNode":"c8d872e4efae9920","toSide":"left","toEnd":"none","color":"2","label":"same person?"},
     {"id":"0990b9736c1fc06a","fromNode":"1031dc2c679143dc","fromSide":"top","toNode":"d51f0adf51d6e97a","toSide":"bottom","label":"TEST"},
-
+    {"id":"d36dd1056e52a9b4","fromNode":"2060522f9c0d01f7","fromSide":"left","toNode":"6aa9d91dad468dc7","toSide":"right","fromEnd":"arrow","color":"4","label":"brothers"},
+    {"id":"b203adf77e507881","fromNode":"c8d872e4efae9920","fromSide":"right","toNode":"dd8b825f0361b955","toSide":"left","color":"4","label":"brothers"},
+    {"id":"eccd0f27eb549af0","fromNode":"45e813e6a1d0684e","fromSide":"left","toNode":"2060522f9c0d01f7","toSide":"top","color":"2","label":"\"man who came from\nanother world\""},
   ]
+
   
   function drawEdges() {
     const svgContainer = document.getElementById('edge-paths');
@@ -71,10 +77,23 @@ function getAnchorPoint(node, side) {
         const toPoint = getAnchorPoint(toNode, edge.toSide);
   
         const curveTightness = 0.75;
-        const controlPointX1 = fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness;
-        const controlPointX2 = fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness);
-        const controlPointY1 = fromPoint.y;
-        const controlPointY2 = toPoint.y;
+        let controlPointX1, controlPointY1, controlPointX2, controlPointY2;
+
+        if (edge.fromSide === 'top' || edge.fromSide === 'bottom') {
+            controlPointX1 = fromPoint.x;
+            controlPointY1 = fromPoint.y + (toPoint.y - fromPoint.y) * curveTightness;
+        } else {
+            controlPointX1 = fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness;
+            controlPointY1 = fromPoint.y;
+        }
+
+        if (edge.toSide === 'top' || edge.toSide === 'bottom') {
+            controlPointX2 = toPoint.x;
+            controlPointY2 = fromPoint.y + (toPoint.y - fromPoint.y) * (1 - curveTightness);
+        } else {
+            controlPointX2 = fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness);
+            controlPointY2 = toPoint.y;
+        }
   
         const d = `M ${fromPoint.x} ${fromPoint.y} C ${controlPointX1} ${controlPointY1}, ${controlPointX2} ${controlPointY2}, ${toPoint.x} ${toPoint.y}`;
   
@@ -92,3 +111,65 @@ function getAnchorPoint(node, side) {
   }
 
   drawEdges()
+
+/*
+  const nodeData = [
+    {
+        "id": "spec",
+        "type": "file",
+        "x": 600,
+        "y": 140,
+        "width": 480,
+        "height": 480,
+        "file": "spec/1.0.md"
+      },
+      {
+        "id": "readme",
+        "type": "file",
+        "x": 36,
+        "y": 240,
+        "width": 480,
+        "height": 580,
+        "file": "readme.md"
+      },
+      {
+        "id": "nav",
+        "type": "text",
+        "x": 336,
+        "y": 36,
+        "width": 180,
+        "height": 168,
+        "text": "Learn more:\n- [Apps](/docs/apps)\n- [Spec](/spec/1.0)\n- [GitHub](https://github.com/obsidianmd/jsoncanvas)"
+      },
+      {
+        "id": "logo",
+        "type": "file",
+        "x": 36,
+        "y": 48,
+        "width": 176,
+        "height": 68,
+        "file": "logo.svg"
+      }
+]
+
+const edgeData = [
+    {
+        "id": "edge-readme-spec",
+        "fromNode": "readme",
+        "fromSide": "right",
+        "fromEnd": "none",
+        "toNode": "spec",
+        "toSide": "left",
+        "toEnd": "arrow"
+      },
+      {
+        "id": "edge-logo-nav",
+        "fromNode": "logo",
+        "fromSide": "right",
+        "fromEnd": "none",
+        "toNode": "nav",
+        "toSide": "left",
+        "toEnd": "arrow"
+      }
+ ]
+*/
