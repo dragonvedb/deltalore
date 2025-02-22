@@ -8,7 +8,16 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <main>test</main>
+    <main>test
+        <svg id="canvas-edges" style="opacity: 1;">
+            <defs>
+              <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="5" refY="4" orient="auto">
+                <polygon points="0 0, 10 4, 0 8"></polygon>
+              </marker>
+            </defs>
+            <g id="edge-paths"></g>
+          </svg>
+    </main>
 
     <script src='https://unpkg.com/panzoom@9.4.0/dist/panzoom.min.js'></script>
     <script src="script.js"></script>
