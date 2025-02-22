@@ -50,6 +50,11 @@ main {
     scrollbar-width: none;
 }
 
+#reader-widget .content {
+    padding: 15px;
+    
+}
+
 #reader-widget .close-button {
     position: absolute; 
     top: 0px; 
