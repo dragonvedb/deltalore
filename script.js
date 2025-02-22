@@ -112,6 +112,7 @@ function getAnchorPoint(node, side) {
 
   drawEdges()
 
+  const converter = new showdown.Converter()
   fetch('content/River Person.md')
     .then(response => {
         if (!response.ok) {
@@ -120,8 +121,8 @@ function getAnchorPoint(node, side) {
         return response.text();
     })
     .then(data => {
-        // Output the contents to the console
-        console.log(data);
+        let mdHtml = converter.makeHtml(data)
+        console.log(mdHtml);
     })
     .catch(error => {
         console.error('Error fetching the file:', error);
