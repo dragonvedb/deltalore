@@ -134,7 +134,21 @@ function getAnchorPoint(node, side) {
   
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
         path.setAttribute('d', d);
-        path.setAttribute('stroke', 'black');
+        let edgeColor
+        switch (edge.color) {
+            case '2':
+                edgeColor = 'orange'
+                break;
+
+            case '4':
+                edgeColor = 'green'
+                break;
+        
+            default:
+                edgeColor = 'gray'
+                break;
+        }
+        path.setAttribute('stroke', edgeColor);
         path.setAttribute('fill', 'none');
         /*if (edge.toEnd === 'arrow') {
           path.setAttribute('marker-end', 'url(#arrowhead)');
