@@ -5,7 +5,21 @@ panzoom(board, {
     bounds: true, 
     boundsPadding: 0.5,
     maxZoom: 3,
-    minZoom: 0.1
+    minZoom: 0.1,
+    beforeWheel: function(e) {
+        // allow wheel-zoom only if altKey is down. Otherwise - ignore
+        if (reader.matches(':hover')) {
+            console.log('Mouse is over the element now.');
+            return true
+        }
+    },
+    beforeMouseDown: function(e) {
+        // allow mouse-down panning only if altKey is down. Otherwise - ignore
+        if (reader.matches(':hover')) {
+            console.log('Mouse is over the element now.');
+            return true
+        }
+    }
 })
 
 const converter = new showdown.Converter()
