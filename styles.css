@@ -7,7 +7,7 @@ body {
 }
 
 main {
-    min-height: 300vh;
-    min-width: 300vh;
+    min-height: 6000px;
+    min-width: 8500px;
     background: content-box radial-gradient(crimson, skyblue);;
 }
