@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 300vh;
+    min-width: 300vh;
+    background: content-box radial-gradient(crimson, skyblue);;
+}
