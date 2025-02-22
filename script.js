@@ -1,20 +1,41 @@
 const board = document.querySelector('main')
-console.log(board)
+const reader = document.getElementById('reader-widget')
 
 panzoom(board, {
     bounds: true, 
     boundsPadding: 0.5,
     maxZoom: 3,
     minZoom: 0.1
-}) 
+})
+
+const converter = new showdown.Converter()
 
 function createNode(data) {
     let node = document.createElement('div')
     node.setAttribute('id', data.id)
+    if (data.type = 'file') node.setAttribute('data-file', data.file)
     node.style.cssText = `position: absolute; left: ${data.x + 5000}px; top: ${data.y + 5300}px; width: ${data.width}px; height: ${data.height}px; background-color: rgba(120, 120, 30, 0.3)`
     node.textContent = data[data.type]
-    //node.style.cssText = "width: 200px; height: 150px"
+    node.addEventListener('click', e => loadFile(e.target.getAttribute('data-file')))
     board.appendChild(node)
+}
+
+function loadFile(filename) {
+    fetch(`content/${filename}`)
+    .then(response => {
+        if (!response.ok) { 
+            throw new Error('Network response was not ok');
+        }
+        return response.text();
+    })
+    .then(file => {
+        let html = converter.makeHtml(file)
+        reader.classList.remove('hidden')
+        reader.innerHTML = html
+    })
+    .catch(error => {
+        console.error('Error fetching the file:', error);
+    });
 }
 
 const nodeData = [
@@ -111,22 +132,6 @@ function getAnchorPoint(node, side) {
   }
 
   drawEdges()
-
-  const converter = new showdown.Converter()
-  fetch('content/River Person.md')
-    .then(response => {
-        if (!response.ok) {
-            throw new Error('Network response was not ok');
-        }
-        return response.text();
-    })
-    .then(data => {
-        let mdHtml = converter.makeHtml(data)
-        console.log(mdHtml);
-    })
-    .catch(error => {
-        console.error('Error fetching the file:', error);
-    });
 
 /*
   const nodeData = [
