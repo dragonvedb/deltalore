@@ -27,7 +27,7 @@ readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'
 panzoom(board, {
     bounds: true, 
     boundsPadding: 0.5,
-    maxZoom: 3,
+    maxZoom: 1,
     minZoom: 0.05,
     beforeWheel: function(e) { if (reader.matches(':hover')) return true }, // allow wheel-zoom only if altKey is down. Otherwise - ignore
     beforeMouseDown: function(e) { if (reader.matches(':hover')) return true }, // allow mouse-down panning only if altKey is down. Otherwise - ignore
