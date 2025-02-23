@@ -8,7 +8,12 @@
     margin: 0;
 }*/
 
-html, body {margin: 0; height: 100%; overflow: hidden; background-color: black;}
+html, body {
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden;
+    background-color: black;
+}
 
 main {
     min-height: 12000px;
