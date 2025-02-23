@@ -28,7 +28,7 @@ panzoom(board, {
     bounds: true, 
     boundsPadding: 0.5,
     maxZoom: 3,
-    minZoom: 0.1,
+    minZoom: 0.05,
     beforeWheel: function(e) { if (reader.matches(':hover')) return true }, // allow wheel-zoom only if altKey is down. Otherwise - ignore
     beforeMouseDown: function(e) { if (reader.matches(':hover')) return true }, // allow mouse-down panning only if altKey is down. Otherwise - ignore
 })
@@ -39,7 +39,7 @@ function createNode(data) {
     let node = document.createElement('div')
     node.setAttribute('id', data.id)
     node.setAttribute('class', 'node')
-    node.style.cssText = `left: ${data.x + 5000}px; top: ${data.y + 5300}px; width: ${data.width}px; height: ${data.height}px;`
+    node.style.cssText = `left: ${data.x + 9000}px; top: ${data.y + 9540}px; width: ${data.width}px; height: ${data.height}px;`
     node.textContent = data[data.type]
     if (data.type == 'file') {
         node.setAttribute('data-file', data.file)

@@ -11,8 +11,8 @@
 html, body {margin: 0; height: 100%; overflow: hidden; background-color: black;}
 
 main {
-    min-height: 6000px;
-    min-width: 8500px;
+    min-height: 12000px;
+    min-width: 17000px;
     background: content-box radial-gradient(closest-side, hsl(260deg 25% 15%), black);
 }
 
