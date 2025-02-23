@@ -23,7 +23,6 @@ main {
 
 #canvas-edges {
     z-index: 100;
-    pointer-events: none;
     user-select: none;
     overflow:visible;
     position: absolute;

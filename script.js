@@ -25,7 +25,7 @@ const readerCloseButton = document.querySelector('#reader-widget .close-button')
 readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'))
 const edgeInfoBox = document.querySelector('#edge-info')
 
-panzoom(board, {
+const zoom = panzoom(board, {
     //bounds: true, 
     //boundsPadding: 1,
     maxZoom: 1,
