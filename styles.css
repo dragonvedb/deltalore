@@ -46,13 +46,14 @@ main {
     background-color: black;
     color: white;
     border: solid 5px white;
-    overflow-y: scroll;
-    scrollbar-width: none;
+    padding: 13px 0px
 }
 
 #reader-widget .content {
-    padding: 15px;
-    
+    padding: 0px 15px;
+    height: 100%;   
+    overflow-y: scroll;
+    scrollbar-width: none;
 }
 
 #reader-widget .close-button {
@@ -60,7 +61,7 @@ main {
     top: 0px; 
     right: 0px;
     z-index: 2000;
-    transform: translateX(3px) translateY(-3px); 
+    transform: translateX(50%) translateY(-50%); 
     height: 30px; 
     width: 30px; 
     background-color: black;
