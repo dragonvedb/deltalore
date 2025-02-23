@@ -36,7 +36,7 @@ main {
 .node {
     z-index: 200;
     position: absolute;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     border: solid 3px white;
 }

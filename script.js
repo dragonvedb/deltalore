@@ -125,14 +125,17 @@ function getAnchorPoint(node, side) {
         const fromPoint = getAnchorPoint(fromNode, edge.fromSide);
         const toPoint = getAnchorPoint(toNode, edge.toSide);
   
-        const curveTightness = 0.75;
+        const curveTightness = 0.2;
+        const minOffset = 100
         let controlPointX1, controlPointY1, controlPointX2, controlPointY2;
 
         if (edge.fromSide === 'top' || edge.fromSide === 'bottom') {
             controlPointX1 = fromPoint.x;
             controlPointY1 = fromPoint.y + (toPoint.y - fromPoint.y) * curveTightness;
         } else {
-            controlPointX1 = fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness;
+            if (edge.fromSide === 'left'){
+                controlPointX1 = Math.min(fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness, fromPoint.x - minOffset);
+            } else controlPointX1 = Math.max(fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness, fromPoint.x + minOffset);
             controlPointY1 = fromPoint.y;
         }
 
@@ -140,7 +143,9 @@ function getAnchorPoint(node, side) {
             controlPointX2 = toPoint.x;
             controlPointY2 = fromPoint.y + (toPoint.y - fromPoint.y) * (1 - curveTightness);
         } else {
-            controlPointX2 = fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness);
+            if (edge.toSide === 'left'){
+                controlPointX2 = Math.min(fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness), toPoint.x - minOffset);
+            } else controlPointX2 = Math.max(fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness), toPoint.x + minOffset);
             controlPointY2 = toPoint.y;
         }
   
