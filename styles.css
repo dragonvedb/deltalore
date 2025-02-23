@@ -41,6 +41,10 @@ main {
     border: solid 3px white;
 }
 
+path {
+    stroke-width: 3px;
+}
+
 #reader-widget {
     position: fixed;
     top: 25px;
@@ -75,6 +79,18 @@ main {
     font-size: 22px; 
     text-align: center; 
     cursor: pointer;
+}
+
+#edge-info {
+    position: absolute; 
+    top: 0px; 
+    right: 0px;
+    z-index: 3000;
+    height: 30px; 
+    width: 90px; 
+    background-color: tomato;
+    color: white;
+    border: solid 1px white;
 }
 
 .hidden {

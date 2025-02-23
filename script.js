@@ -23,6 +23,7 @@ const reader = document.getElementById('reader-widget')
 const readerContent = document.querySelector('#reader-widget .content')
 const readerCloseButton = document.querySelector('#reader-widget .close-button')
 readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'))
+const edgeInfoBox = document.querySelector('#edge-info')
 
 panzoom(board, {
     //bounds: true, 
@@ -114,6 +115,7 @@ function getAnchorPoint(node, side) {
   
   function drawEdges() {
     const svgContainer = document.getElementById('edge-paths');
+    svgContainer.addEventListener('mouseover', (e) => console.log("SVG MOUSE"))
   
     canvas.edges.forEach(edge => {
       const fromNode = document.getElementById(edge.fromNode);
@@ -163,6 +165,15 @@ function getAnchorPoint(node, side) {
         /*if (edge.toEnd === 'arrow') {
           path.setAttribute('marker-end', 'url(#arrowhead)');
         }*/
+        path.addEventListener('mouseover', (e) => {
+            edgeInfoBox.classList.remove('hidden')
+            console.log('Mouse over path:', e.target);
+        })
+
+        path.addEventListener('mouseout', (e) => {
+            edgeInfoBox.classList.add('hidden')
+            console.log('Mouse out path:', e.target);
+        })
   
         svgContainer.appendChild(path);
       }
