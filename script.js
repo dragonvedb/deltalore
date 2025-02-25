@@ -24,7 +24,7 @@ const readerContent = document.querySelector('#reader-widget .content')
 const readerCloseButton = document.querySelector('#reader-widget .close-button')
 readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'))
 const edgeInfoBox = document.querySelector('#edge-info')
-onmousemove = (e) => edgeInfoBox.style.cssText = `left: ${e.pageX + 10}px; top: ${e.pageY + 10}px`
+onmousemove = (e) => edgeInfoBox.style.cssText = `left: ${e.pageX}px; top: ${e.pageY}px`
 
 const zoom = panzoom(board, {
     //bounds: true, 
@@ -116,7 +116,6 @@ function getAnchorPoint(node, side) {
   
   function drawEdges() {
     const svgContainer = document.getElementById('edge-paths');
-    svgContainer.addEventListener('mouseover', (e) => console.log("SVG MOUSE"))
   
     canvas.edges.forEach(edge => {
       const fromNode = document.getElementById(edge.fromNode);
@@ -154,6 +153,7 @@ function getAnchorPoint(node, side) {
   
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
         path.setAttribute('d', d);
+        path.setAttribute('data-label', edge.label)
         let edgeColor
         switch (edge.color) {
             case '2':
@@ -172,7 +172,12 @@ function getAnchorPoint(node, side) {
           path.setAttribute('marker-end', 'url(#arrowhead)');
         }*/
         path.addEventListener('mouseover', (e) => {
-            edgeInfoBox.classList.remove('hide')
+            let label = e.target.getAttribute('data-label')
+            if (label !== 'undefined') {
+                edgeInfoBox.textContent = e.target.getAttribute('data-label')
+                edgeInfoBox.classList.remove('hide')
+            }
+            
         })
         path.addEventListener('mouseout', (e) => {
             edgeInfoBox.classList.add('hide')

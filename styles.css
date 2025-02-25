@@ -89,20 +89,23 @@ path:hover {
     top: 0px; 
     right: 0px;
     z-index: 3000;
-    height: 30px; 
-    width: 90px; 
-    background-color: tomato;
+    min-height: 30px; 
+    width: max-content;
+    max-width: 150px;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
     color: white;
     border: solid 1px white;
-    pointer-events: all;
-    /*opacity: 1;*/
-    /*transition: opacity 1s;*/
-    /*transition: background-color 1s;*/
+    pointer-events: none;
+    opacity: 1;
+    transition: opacity 0.25s;
+    transform: translate(-50%, calc(-100%));
 }
 
 #edge-info.hide {
-    /*opacity: 0;*/
-    background-color: gray;
+    opacity: 0;
 }
 
 .hidden {
