@@ -41,7 +41,11 @@ main {
 }
 
 path {
-    stroke-width: 3px;
+    stroke-width: 4px;
+}
+
+path:hover {
+    stroke-width: 6px;
 }
 
 #reader-widget {
@@ -90,6 +94,15 @@ path {
     background-color: tomato;
     color: white;
     border: solid 1px white;
+    pointer-events: all;
+    /*opacity: 1;*/
+    /*transition: opacity 1s;*/
+    /*transition: background-color 1s;*/
+}
+
+#edge-info.hide {
+    /*opacity: 0;*/
+    background-color: gray;
 }
 
 .hidden {
