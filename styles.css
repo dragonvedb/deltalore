@@ -40,6 +40,10 @@ main {
     border: solid 5px white;
 }
 
+.node.selected {
+    border-color: yellow;
+}
+
 path {
     stroke-width: 5px;
 }

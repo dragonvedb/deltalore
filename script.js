@@ -22,9 +22,14 @@ const board = document.querySelector('main')
 const reader = document.getElementById('reader-widget')
 const readerContent = document.querySelector('#reader-widget .content')
 const readerCloseButton = document.querySelector('#reader-widget .close-button')
-readerCloseButton.addEventListener('click', (e) => reader.classList.add('hidden'))
+readerCloseButton.addEventListener('click', (e) => {
+    reader.classList.add('hidden')
+    if (selectedCard) document.getElementById(selectedCard).classList.remove("selected")
+})
 const edgeInfoBox = document.querySelector('#edge-info')
 onmousemove = (e) => edgeInfoBox.style.cssText = `left: ${e.pageX}px; top: ${e.pageY}px`
+
+let selectedCard = ""
 
 const zoom = panzoom(board, {
     //bounds: true, 
@@ -45,12 +50,16 @@ function createNode(data) {
     node.textContent = data[data.type]
     if (data.type == 'file') {
         node.setAttribute('data-file', data.file)
-        node.addEventListener('click', e => loadFile(e.target.getAttribute('data-file')))
+        node.addEventListener('click', e => {
+            if (selectedCard) document.getElementById(selectedCard).classList.remove("selected")
+            selectedCard = e.target.getAttribute('id')
+            loadFile(e.target.getAttribute('data-file'))
+        })
     } 
     board.appendChild(node)
 }
 
-function loadFile(filename) {
+function loadFile(filename, id) {
     fetch(`content/${filename}`)
     .then(response => {
         if (!response.ok) { 
@@ -62,6 +71,8 @@ function loadFile(filename) {
         let html = converter.makeHtml(file)
         reader.classList.remove('hidden')
         readerContent.innerHTML = html
+
+        document.getElementById(selectedCard).classList.add("selected")
     })
     .catch(error => {
         console.error('Error fetching the file:', error);
