@@ -37,11 +37,11 @@ main {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    border: solid 3px white;
+    border: solid 5px white;
 }
 
 path {
-    stroke-width: 4px;
+    stroke-width: 5px;
 }
 
 path:hover {
