@@ -44,8 +44,9 @@ const converter = new showdown.Converter()
 
 function createNode(data) {
     let node = document.createElement('div')
-    node.setAttribute('id', data.id)
-    node.setAttribute('class', 'node')
+    node.setAttribute('data-id', data.id)
+    node.classList.add('node')
+    if (data.color == '2') node.classList.add('pic')
     node.style.cssText = `left: ${data.x + 9000}px; top: ${data.y + 9000}px; width: ${data.width}px; height: ${data.height}px;`
     node.textContent = data[data.type].replace('.md', '')
     if (data.type == 'file') {
@@ -129,8 +130,8 @@ function getAnchorPoint(node, side) {
     const svgContainer = document.getElementById('edge-paths');
   
     canvas.edges.forEach(edge => {
-      const fromNode = document.getElementById(edge.fromNode);
-      const toNode = document.getElementById(edge.toNode);
+      const fromNode = document.querySelector(`[data-id="${edge.fromNode}"]`);
+      const toNode = document.querySelector(`[data-id="${edge.toNode}"]`);
   
       if (fromNode && toNode) {
         const fromPoint = getAnchorPoint(fromNode, edge.fromSide);

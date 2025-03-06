@@ -1,0 +1,20 @@
+[data-id="2060522f9c0d01f7"],
+[data-id="c8d872e4efae9920"] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/contain url('/img/sans.png');
+}
+
+
+
+
+/* TEMPLATE */
+/*
+[data-id=""] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/contain url('/img');
+}
+*/

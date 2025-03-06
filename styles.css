@@ -46,6 +46,12 @@ main {
     font-weight: bold;
 }
 
+.node.pic {
+    align-items: end;
+    padding-bottom: 10px;
+
+}
+
 .node.selected {
     border-color: yellow;
 }
