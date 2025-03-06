@@ -47,7 +47,7 @@ function createNode(data) {
     node.setAttribute('id', data.id)
     node.setAttribute('class', 'node')
     node.style.cssText = `left: ${data.x + 9000}px; top: ${data.y + 9000}px; width: ${data.width}px; height: ${data.height}px;`
-    node.textContent = data[data.type]
+    node.textContent = data[data.type].replace('.md', '')
     if (data.type == 'file') {
         node.setAttribute('data-file', data.file)
         node.addEventListener('click', e => {

@@ -33,11 +33,17 @@ main {
 }
 
 .node {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     z-index: 200;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     border: solid 5px white;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
 }
 
 .node.selected {
