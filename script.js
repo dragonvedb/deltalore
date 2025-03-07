@@ -50,6 +50,7 @@ function createNode(data) {
     node.setAttribute('data-id', data.id)
     node.classList.add('node')
     if (data.color == '2') node.classList.add('pic')
+    if (data.color == '5') node.classList.add('meta')
     node.style.cssText = `left: ${data.x + 9000}px; top: ${data.y + 9000}px; width: ${data.width}px; height: ${data.height}px;`
     node.textContent = data[data.type].replace('.md', '')
     if (data.type == 'file') {

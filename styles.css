@@ -49,11 +49,14 @@ main {
     font-weight: bold;
     font-family: 'Noto Serif', serif;
 }
-
 .node.pic {
     align-items: end;
     padding-bottom: 10px;
 
+}
+.node.meta {
+    background-color: hsla(222, 56%, 12%, 0.5);
+    border: solid 5px hsl(222, 91%, 82%);
 }
 
 .node.selected {
