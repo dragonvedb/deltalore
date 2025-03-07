@@ -1,0 +1,3 @@
+IN UNDERTALE, Nightmare Mode is a [[Fun Events|Fun Event]] that triggers at values 56-57. It causes an image of a weird-looking snowman labeled as "Nightmare" to appear on the Monster Kidz Word Search, in addition to [[ICE-E]].
+
+The meaning of this event is unknown. It is worth noting that while the word search puzzle given by [[Sans]] is the only mention of ICE-E in UT, in DR he is a very popular mascot, who is also repeatedly mentioned as terrifying.
