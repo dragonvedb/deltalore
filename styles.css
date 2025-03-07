@@ -13,6 +13,7 @@ html, body {
     height: 100%; 
     overflow: hidden;
     background-color: black;
+    font-family: ;
 }
 
 main {
@@ -72,10 +73,11 @@ path:hover {
     z-index: 1000;
     height: 80vh;
     width: 60vh;
-    background-color: black;
+    background-color: rgb(20, 20, 20);
     color: white;
     border: solid 5px white;
-    padding: 13px 0px;
+    padding: 13px 15px;
+    font-size: 18px;
 }
 
 #reader-widget .content {
@@ -112,7 +114,7 @@ path:hover {
     padding: 10px;
     font-family: sans-serif;
     text-align: center;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.85);
     color: white;
     border: solid 1px white;
     pointer-events: none;
