@@ -66,7 +66,7 @@
     letter-spacing: 5px;
     font-size: 3em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 50%, rgba(0,0,0,0) 100%),
-        repeat-x 60% center/contain url('/img/heaven.png') black;
+        repeat-x 66% center/contain url('/img/heaven.png') black;
 }
 
 [data-id="fd60f8f392806f89"] {
@@ -188,7 +188,110 @@
         no-repeat center/60% url('/img/ralsei.webp') black;
 }
 
+[data-id="f7702a474f02c6bc"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 30% 40%/70% url('/img/undyne_face.webp') black;
+}
 
+[data-id="2519afe04ba5e76a"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 30%/75% url('/img/alphys_face.webp') black;
+}
+
+[data-id="65ffa2f55ce2c5b0"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center -25%/95% url('/img/church.png') black;
+}
+
+[data-id="789ccc2741d787ff"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/60% url('/img/father_alvin.webp') black;
+}
+
+[data-id="c28a70ee790e8062"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center bottom/90% url('/img/gerson.webp') black;
+}
+
+[data-id="5ed71323885dd1eb"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/cover url('/img/vessel.jpg') black;
+}
+
+[data-id="aa604e6e3ef5b851"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/90% url('/img/toriel_full.png') black;
+}
+
+[data-id="238724126541b477"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/110% url('/img/asgore_full.png') black;
+}
+
+[data-id="5ed409767a8f4ab1"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 30%/60% url('/img/asriel.webp') black;
+}
+
+[data-id="88d490c2d125a409"] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/70% url('/img/chara.webp') black;
+}
+
+[data-id="7080286449f2668d"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 75%/120% url('/img/frisk.webp') black;
+}
+
+[data-id="9b5fb19f199cc1d3"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/contain url('/img/flowey.webp') black;
+}
+
+[data-id="9c3107277fa44f8c"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 20% 25%/85% url('/img/undyne.webp') black;
+}
+
+[data-id="fc1278447ae8fbac"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 25% 25%/85% url('/img/alphys.webp') black;
+}
+
+[data-id="6aa9d91dad468dc7"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 65% 20%/85% url('/img/papyrus.webp') black;
+}
 
 /* TEMPLATE */
 /*
