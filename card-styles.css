@@ -118,8 +118,75 @@
         no-repeat center 25%/75% url('/img/jevil.webp') black;
 }
 
+[data-id="56ba6e8ea0267332"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/60% url('/img/rudy.webp') black;
+}
 
+[data-id="9b853934c2fbd910"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/60% url('/img/question-mark-7-256.gif') black;
+}
 
+[data-id="b9ca72ed61224249"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 30%/80% url('/img/question-mark-7-256.gif') black;
+}
+
+[data-id="43e475a69c6c385d"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/112% url('/img/noelle.png') black;
+}
+
+[data-id="14b641b02d056c74"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/70% url('/img/asgore_face.webp') black;
+}
+
+[data-id="16b683a2a9597e8e"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/75% url('/img/toriel_face.webp') black;
+}
+
+[data-id="eea27837791b42c4"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 30%/80% url('/img/question-mark-7-256.gif') black;
+}
+
+[data-id="bce93c78c44a5bac"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/55% url('/img/kris.webp') black;
+}
+
+[data-id="57dba4e2e868d6f2"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/70% url('/img/susie.jpg') black;
+}
+
+[data-id="66d54804400bf7e1"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/60% url('/img/ralsei.webp') black;
+}
 
 
 
