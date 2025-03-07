@@ -2,13 +2,12 @@
 	"nodes":[
 		{"id":"d51f0adf51d6e97a","type":"file","file":"Doctor W. D. Gaster.md","x":-1244,"y":-2651,"width":365,"height":509,"color":"2"},
 		{"id":"2060522f9c0d01f7","type":"file","file":"Sans.md","x":-1214,"y":-949,"width":260,"height":360,"color":"2"},
-		{"id":"c8d872e4efae9920","type":"file","file":"Sans.md","x":-623,"y":-937,"width":262,"height":344,"color":"2"},
 		{"id":"fd60f8f392806f89","type":"file","file":"Angel.md","x":562,"y":-4880,"width":920,"height":290,"color":"2"},
 		{"id":"e338a3888150bd22","type":"file","file":"SURVEY PROGRAM.md","x":-1264,"y":-4721,"width":400,"height":400,"color":"5"},
 		{"id":"86074b7064aa0067","type":"file","file":"Goner Maker.md","x":-711,"y":-4666,"width":360,"height":294,"color":"5"},
 		{"id":"55b5b95c9a65f65a","type":"file","file":"Third Entity.md","x":-296,"y":-4207,"width":226,"height":168},
 		{"id":"c28a70ee790e8062","type":"file","file":"Gerson Boom.md","x":64,"y":-4307,"width":260,"height":198,"color":"2"},
-		{"id":"789ccc2741d787ff","type":"file","file":"Father Alvin.md","x":91,"y":-4012,"width":203,"height":280,"color":"2"},
+		{"id":"789ccc2741d787ff","type":"file","file":"Father Alvin.md","x":70,"y":-4012,"width":247,"height":280,"color":"2"},
 		{"id":"57dba4e2e868d6f2","type":"file","file":"Susie.md","x":1328,"y":-2592,"width":286,"height":390,"color":"2"},
 		{"id":"847f68688d4d640c","type":"file","file":"Bunker.md","x":762,"y":-2577,"width":411,"height":309,"color":"2"},
 		{"id":"923eb24107707482","type":"file","file":"don't forget.md","x":482,"y":227,"width":365,"height":153},
@@ -72,9 +71,7 @@
 		{"id":"238724126541b477","type":"file","file":"Asgore.md","x":-3719,"y":-1950,"width":397,"height":400,"color":"2"},
 		{"id":"aa604e6e3ef5b851","type":"file","file":"Toriel.md","x":-4339,"y":-1949,"width":378,"height":400,"color":"2"},
 		{"id":"f17539020b102fba","type":"file","file":"Amalgamates.md","x":-1857,"y":-1886,"width":307,"height":206,"color":"2"},
-		{"id":"dd8b825f0361b955","type":"file","file":"Papyrus.md","x":-111,"y":-573,"width":272,"height":405,"color":"2"},
 		{"id":"fc1278447ae8fbac","type":"file","file":"Alphys.md","x":-2324,"y":-1354,"width":343,"height":325,"color":"2"},
-		{"id":"45e813e6a1d0684e","type":"file","file":"River Person.md","x":-699,"y":-1418,"width":232,"height":354,"color":"2"},
 		{"id":"77641d60824af171","type":"file","file":"Everyman.md","x":-557,"y":-2319,"width":235,"height":342,"color":"2"},
 		{"id":"e23eeebe0deef006","type":"file","file":"Starwalker.md","x":-368,"y":-1894,"width":243,"height":86},
 		{"id":"9473156a6b5c71ae","type":"file","file":"Man Behind the Tree.md","x":-154,"y":-1511,"width":324,"height":149},
@@ -84,7 +81,10 @@
 		{"id":"e9d6033f6cbc8dde","type":"file","file":"Jevil.md","x":1873,"y":-316,"width":290,"height":338,"color":"2"},
 		{"id":"bd2f1077a3ac9614","type":"file","file":"The Roaring.md","x":1752,"y":-1154,"width":530,"height":403,"color":"2"},
 		{"id":"11f5359473fa55fd","type":"file","file":"Mettaton.md","x":2598,"y":-2891,"width":242,"height":188},
-		{"id":"be21817e0d972529","type":"file","file":"ICE-E.md","x":-781,"y":-3045,"width":236,"height":263,"color":"2"}
+		{"id":"be21817e0d972529","type":"file","file":"ICE-E.md","x":-781,"y":-3045,"width":236,"height":263,"color":"2"},
+		{"id":"45e813e6a1d0684e","type":"file","file":"River Person.md","x":-629,"y":-1425,"width":232,"height":354,"color":"2"},
+		{"id":"dd8b825f0361b955","type":"file","file":"Papyrus.md","x":-193,"y":-577,"width":272,"height":405,"color":"2"},
+		{"id":"c8d872e4efae9920","type":"file","file":"Sans.md","x":-700,"y":-945,"width":262,"height":354,"color":"2"}
 	],
 	"edges":[
 		{"id":"d13cadfd1e0d8837","fromNode":"d51f0adf51d6e97a","fromSide":"bottom","toNode":"fc1278447ae8fbac","toSide":"right","color":"4","label":"predecessor to"},
