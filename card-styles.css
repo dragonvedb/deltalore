@@ -17,7 +17,7 @@
     letter-spacing: 5px;
     font-size: 2.5em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
-        no-repeat 50% 100%/120% url('/img/dark_world.png') black;
+        no-repeat 50% 10%/100% url('/img/dark_world.png') black;
 }
 
 [data-id="d3b33b42c0dd99f4"] {
@@ -94,7 +94,7 @@
     letter-spacing: 5px;
     font-size: 2.5em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
-        no-repeat center/100% url('/img/noun-chess-knight-589743.svg') black;
+        no-repeat center 25%/110% url('/img/noun-chess-knight-589743.svg') black;
 }
 
 [data-id="b2cfbf0f0e7a1bd9"] {
@@ -290,8 +290,79 @@
     letter-spacing: 5px;
     font-size: 2.5em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
-        no-repeat 65% 20%/85% url('/img/papyrus.webp') black;
+        no-repeat 65% 25%/90% url('/img/papyrus.webp') black;
 }
+
+[data-id="6c462d8374056777"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/80% url('/img/metatton.webp') black;
+}
+
+[data-id="dfacc38517b5d48c"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 15%/100% url('/img/core.webp') black;
+}
+
+[data-id="085e90cd66b7545f"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/110% url('/img/true_lab.webp') black;
+}
+
+[data-id="f17539020b102fba"] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/contain url('/img/amalgamates.png') black;
+}
+
+[data-id="c50f6a183e17a440"] {
+    letter-spacing: 0px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/80% url('/img/redacted.webp') black;
+}
+
+[data-id="dd8b825f0361b955"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 35%/90% url('/img/question-mark-7-256.gif') black;
+}
+
+[data-id="2d85f766f52187a6"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 50% 40%/200% url('/img/sans_workshop.webp') black;
+}
+
+[data-id="4b950c8d2e15295a"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/cover url('/img/sans_room.jpg') black;
+}
+
+[data-id="d51f0adf51d6e97a"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/contain url('/img/him.webp') black;
+}
+
+[data-id="07d4812778bde5bd"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center 25%/90% url('/img/SOUL.webp') black;
+}
+
 
 /* TEMPLATE */
 /*
