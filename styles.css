@@ -42,6 +42,7 @@ main {
     color: white;
     border: solid 5px white;
     text-align: center;
+    user-select: none;
     font-size: 1.8rem;
     font-weight: bold;
 }

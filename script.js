@@ -36,6 +36,9 @@ const zoom = panzoom(board, {
     //boundsPadding: 1,
     maxZoom: 1,
     minZoom: 0.1,
+    initialX: -425,
+    initialY: -525,
+    initialZoom: 0.125,
     beforeWheel: function(e) { if (reader.matches(':hover')) return true }, // allow wheel-zoom only if altKey is down. Otherwise - ignore
     beforeMouseDown: function(e) { if (reader.matches(':hover')) return true }, // allow mouse-down panning only if altKey is down. Otherwise - ignore
 })
