@@ -1,20 +1,95 @@
 [data-id="2060522f9c0d01f7"],
 [data-id="c8d872e4efae9920"] {
     letter-spacing: 5px;
-    font-size: 2em;
+    font-size: 2.5em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
-        no-repeat center/contain url('/img/sans.png');
+        no-repeat center/85% url('/img/sans.png') black;
 }
 
+[data-id="847f68688d4d640c"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 50% 100%/120% url('/img/bunker.webp') black;
+}
 
+[data-id="d7fdcdaee892b48b"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 50% 100%/120% url('/img/dark_world.png') black;
+}
+
+[data-id="d3b33b42c0dd99f4"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 25% 50%/cover url('/img/entry17.png') black;
+}
+
+[data-id="90d46273ea57b785"] {
+    letter-spacing: 5px;
+    font-size: 2.2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/140% url('/img/onion.jpg') black;
+}
+
+[data-id="0ffa795e16ca7286"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/cover url('/img/depths.webp') black;
+}
+
+[data-id="bd2f1077a3ac9614"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/cover url('/img/roaring.png') black;
+}
+
+[data-id="be21817e0d972529"] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 50% 20%/70% url('/img/ICE-E.webp') black;
+}
+
+[data-id="77641d60824af171"] {
+    letter-spacing: 5px;
+    font-size: 2em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat 50% 10%/140% url('/img/everyman.jpg') black;
+}
+
+[data-id="a6890c33ef8a66e4"] {
+    letter-spacing: 5px;
+    font-size: 3em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 50%, rgba(0,0,0,0) 100%),
+        repeat-x 60% center/contain url('/img/heaven.png') black;
+}
+
+[data-id="fd60f8f392806f89"] {
+    letter-spacing: 5px;
+    font-size: 3em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat top center/cover url('/img/angel.png') black;
+}
+
+[data-id="5636f049874ddcc1"] {
+    letter-spacing: 5px;
+    font-size: 2.5em;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
+        no-repeat center/cover url('/img/prophecy.png') black;
+}
 
 
 /* TEMPLATE */
 /*
 [data-id=""] {
     letter-spacing: 5px;
-    font-size: 2em;
+    font-size: 2.5em;
     background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0) 100%),
-        no-repeat center/contain url('/img');
+        no-repeat center/cover url('/img') black;
 }
 */

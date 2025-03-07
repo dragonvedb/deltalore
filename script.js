@@ -1,4 +1,4 @@
-let canvas = fetch(`DELTALORE_beta.canvas`)
+let canvas = fetch(`DELTALORE_prod.canvas`)
 .then(response => {
     if (!response.ok) { 
         throw new Error('Network response was not ok');
@@ -138,7 +138,7 @@ function getAnchorPoint(node, side) {
         const toPoint = getAnchorPoint(toNode, edge.toSide);
   
         const curveTightness = 0.2;
-        const minOffset = 100
+        const minOffset = 150
         let controlPointX1, controlPointY1, controlPointX2, controlPointY2;
 
         if (edge.fromSide === 'top' || edge.fromSide === 'bottom') {
