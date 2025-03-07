@@ -72,11 +72,13 @@ function loadFile(filename, id) {
         return response.text();
     })
     .then(file => {
+        file = file.replaceAll(/(\[\[).+\|/g, '').replaceAll('[[', '').replaceAll(']]', '')
         let html = converter.makeHtml(file)
+        //html = html.replaceAll(/(\[\[)\w+\|/g).replaceAll('[[', '').replaceAll(']]', '')
         reader.classList.remove('hidden')
         readerContent.innerHTML = html
 
-        document.getElementById(selectedCard).classList.add("selected")
+        //document.getElementById(selectedCard).classList.add("selected")
     })
     .catch(error => {
         console.error('Error fetching the file:', error);

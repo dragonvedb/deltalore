@@ -1,4 +1,4 @@
-IN UNDERTALE Amalgamates are monsters on the verge of death, who became changed after being injected with [[Determination]] as part of [[Alphys|Alphys's]] experiments in the [[Hotland Lab|True Lab]]. As detailed in the Log Entries, including the missing [[Entry 17]], this was done to try and preserve their [[Souls]] after death. However, instead of dying, the subjects first seemingly returned to good health and then began melting and merging together, since their bodies were unable to handle excess Determination.
+IN UNDERTALE Amalgamates are monsters on the verge of death, who became changed after being injected with Determination as part of [[Alphys|Alphys's]] experiments in the [[Hotland Lab|True Lab]]. As detailed in the Log Entries, including the missing [[Entry 17]], this was done to try and preserve their [[Souls]] after death. However, instead of dying, the subjects first seemingly returned to good health and then began melting and merging together, since their bodies were unable to handle excess Determination.
 
 Alphys hid the truth from the rest of monsterkind and continued to care for Amalgamates in secret.
 
