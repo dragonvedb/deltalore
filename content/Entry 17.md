@@ -17,12 +17,12 @@ The second, more well-known one, can be seen by accessing hidden Room 264 aka _r
 - _..._
 - _WHAT DO YOU TWO THINK_
 
-- _What experiment is Gaster talking about?_
-	- _The creation of a [[Dark Worlds|Dark World]]?_
-		- _Or of the DELTARUNE timeline itself?_
-	- _Was this the experiment that ended his life?_
-- _Who are the two people Gaster is addressing?_
-	- _[[Sans]] and [[Papyrus]]?_
-	- _Sans and [[Alphys]]?_
+	- _What experiment is Gaster talking about?_
+		- _The creation of a [[Dark Worlds|Dark World]]?_
+			- _Or of the DELTARUNE timeline itself?_
+		- _Was this the experiment that ended his life?_
+	- _Who are the two people Gaster is addressing?_
+		- _[[Sans]] and [[Papyrus]]?_
+		- _Sans and [[Alphys]]?_
 
 IN DELTARUNE the text of Entry 17 is referenced by [[Seam]]. They tell that after listening to [[Jevil ]](who likely communicated with Gaster at some point) their worldview became "darker, yet darker".
