@@ -73,7 +73,7 @@ function loadFile(filename, id) {
         return response.text();
     })
     .then(file => {
-        file = file.replaceAll(/(\[\[).+\|/g, '').replaceAll('[[', '').replaceAll(']]', '')
+        file = file.replaceAll(/[^[]+\|/g, '').replaceAll('[[', '').replaceAll(']]', '')
         let html = converter.makeHtml(file)
         //html = html.replaceAll(/(\[\[)\w+\|/g).replaceAll('[[', '').replaceAll(']]', '')
         reader.classList.remove('hidden')

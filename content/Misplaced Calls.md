@@ -5,8 +5,8 @@ IN UNDERTALE, misplaced calls are a series of [[Fun Events]] that can occur in S
 **The list of misplaced calls with their respective Fun Values:**
 
 - **(2-39) Wrong Number Song** - an unknown person calls [[Frisk]] and asks for someone whose name starts with "G", but then cuts themselves off without saying the full name, realizing they've called the wrong number. Then the "Wrong Number Song" plays.
-	- _Who is the caller?
-	- _Who were they trying to reach?
+	- _Who is the caller?_
+	- _Who were they trying to reach?_
 		- _Gyftrot?_
 		- _[[Gerson Boom|Gerson]]?_
 		- _[[Doctor W. D. Gaster|Gaster]]?_

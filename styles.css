@@ -92,6 +92,12 @@ path:hover {
     scrollbar-width: none;
 }
 
+#reader-widget ul,
+#reader-widget li {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
 #reader-widget .close-button {
     position: absolute; 
     top: 0px; 

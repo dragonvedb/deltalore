@@ -22,8 +22,6 @@ Below is a list of the followers with their respective dialogue and Fun Values:
   
 
 - **63 *(50% chance)* - Gaster Follower #3** has no analogue in UNDERTALE, but looks similar to the Striped Bird from DELTARUNE.
-	- _Why is Striped Bird blocking [[Kris]] from the most interesting parts of the library In both Ch1 and Ch2?_ 
-		- _And why is Striped Bird's name in the game files 'spr_normalnpc'?_
   Dialogue:
 	- _I understand why [[ASGORE]] waited so long to hire a new Royal Scientist._
 	- _The previous one... Dr. Gaster._
@@ -32,3 +30,5 @@ Below is a list of the followers with their respective dialogue and Fun Values:
 	- _One day, his experiments went wrong, and..._
 	- _Well, I needn't gossip._
 	- _After all, it's rude to talk about someone who's listening._
+		- _Why is Striped Bird blocking [[Kris]] from the most interesting parts of the library In both Ch1 and Ch2?_ 
+		- _And why is Striped Bird's name in the game files 'spr_normalnpc'?_

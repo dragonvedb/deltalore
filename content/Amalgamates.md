@@ -9,7 +9,7 @@ Known Amalgamates are:
 **Memoryheads** are composed of multiple monsters and also seem to be connected to some electronic device.
 - _There may be several hints that Memoryheads are connected to W. D. Gaster:_
 	- _One of their attacks include faces that look similar to Mystery Man's face_
-	- _[[Frisk]] has to use a cellphone in their presence to spare them; in UNDERTALE, three of the [[Fun Events]] involve [[Misplaced Calls|strange phone calls]] and in DELTARUNE, using a cellphone in a Dark World makes it play [[mus_smile]] and Spamton goes mad after speaking to someone on the phone._
+	- *[[Frisk]] has to use a cellphone in their presence to spare them; in UNDERTALE, three of the [[Fun Events]] involve [[Misplaced Calls|strange phone calls]]; in DELTARUNE, using a cellphone in a Dark World makes it play [[mus_smile]] and Spamton goes mad after speaking to someone on the phone.*
 	- _One of the lines that appear during the fight is "Lorem ipsum docet", which is a reference to Lorem Ipsum placeholder text, but also can be translated from Latin as "Pain itself teaches" (except 'lorem' should be 'dolorem'). There is a similar line in the [[Pain Poem]], which also includes a description of the [[Mystery Man]]._
 
 **Reaper Bird** is composed of Final Froggit, Astigmatism and Whimsalot. Curiously, all of their attacks involve [[Everyman]], whose exact nature is unclear.
