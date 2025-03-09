@@ -3,4 +3,4 @@ IN DELTARUNE, Warp Doors are special doors that can transport the Fun Gang betwe
 The very first activated door in Ch1 is fixed by several minor characters to help the Fun Gang travel around faster. Afterwards, doors are usually activated by simply reaching some location. 
 In Ch2 on Weird Route the doors never activate.
 
-IN UNDERTALE, the door to [[Sans' Room]] looks like a Warp Door. The significance of this is unknown.
+IN UNDERTALE, the door to <a onclick="loadFile('Sans\' Room')">Sans' Room</a> looks like a Warp Door. The significance of this is unknown.

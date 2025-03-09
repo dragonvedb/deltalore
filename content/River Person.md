@@ -7,8 +7,8 @@ These messages are of particular note:
 - _Tra la la. Beware of the man who speaks in hands._ 
 	- Possibly refers to W. D. Gaster, since his dialogue is rendered in upper-case Wingdings, which include several hand symbols (like left-pointing hand in place of D).
 - _Tra la la. Beware of the man who came from the other world._ 
-	- Possibly refers to [[Sans]], as there are several hints that he is not originally from UNDERTALE's universe.
+	- Possibly refers to <a onclick="loadFile('Sans.md')">Sans</a>, as there are several hints that he is not originally from UNDERTALE's universe.
 - _Tra la la. Did you ever hear the old song coming from the sea?_ 
-	- In DELTARUNE, [[Onion]] talks about a familiar song "coming from the sea".
+	- In DELTARUNE, <a onclick="loadFile('Onion.md')">Onion</a> talks about a familiar song "coming from the sea".
 - _Tra la la. The angel is coming... Tra la la._ 
 	- Though UNDERTALE also has a prophecy regarding an angel, this line might foreshadow DELTARUNE's Roaring.

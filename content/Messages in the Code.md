@@ -23,15 +23,15 @@ I swear I hear something...
 Something like... scratching?*
 
 - _Who is saying this?_
-	- _[December Holiday]()?_
+	- _<a onclick="loadFile('December Holiday.md')">December Holiday</a>?_
 	- *The Vessel?*
 - _Where are they trapped?_
 	- _Inside a Dark World?_
-	- _In the [Bunker]()?_
+	- _In the <a onclick="loadFile('Bunker.md')">Bunker</a>?_
 	- _In the game code itself?_
 - _Where is the scratching coming from?_
 
-Additionally, while talking with Spamton in his shop, choosing the "FEAR" option yields *"WHAT ARE YOU AFRAID OF??? ACCORDING TO \[Encyclopedia of Being Afraid] THERE'S NOTHING TO FEAR EXCEPT ... ... can anyone hear me? Help... HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!! ... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."*
+Additionally, while talking with Spamton in his shop, choosing the "FEAR" option yields *"WHAT ARE YOU AFRAID OF??? ACCORDING TO [Encyclopedia of Being Afraid] THERE'S NOTHING TO FEAR EXCEPT ... ... can anyone hear me? Help... HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!! ... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."*
 
 - _Is this the same person as in the messages above?_
 	- _How are they communicating through Spamton?_

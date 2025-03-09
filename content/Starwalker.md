@@ -6,6 +6,6 @@ The Starwalker looks like a yellow five point star with long legs. Interacting w
 - _Is Starwalker merely an easter egg character or is he going to have some role in the story? There are several unusual things regarding him:_
 	- _He doesn't turn to stone in a foreign Dark World._
 	- _He looks similar to the SAVE points from UNDERTALE._
-	- _The room where the original Starwalker is encountered borders [[Man Behind the Tree|the hidden room with the tree]]._
+	- _The room where the original Starwalker is encountered borders <a onclick="loadFile('Man Behind the Tree.md')">the hidden room with the tree</a>._
 	- _The wings of Starwalker Birds resemble ones on the Delta Rune._
-	- _Though it is a stretch, the combination of a bird and a bell might allude to [[Doctor W. D. Gaster|"Wing Ding"]]_
+	- _Though it is a stretch, the combination of a bird and a bell might allude to <a onclick="loadFile('Doctor W. D. Gaster.md')">"Wing Ding"</a>_

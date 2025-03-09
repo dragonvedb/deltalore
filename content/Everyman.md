@@ -6,4 +6,4 @@ Its name in the game files is _strangeman_, but early after the game's release, 
 
 **IN DELTARUNE**, Everyman continues to appear as part of enemy attacks. Its head can replace a duck's head in Jevil's carousel attack; it can appear on a window in a Poppup's attack; and it also has a chance to be one of the chatters in Queen's Drama attack, where it is the only one that doesn't emit any words.
 
-Graffitos of Everyman can be found in the Hometown in both chapters. In Ch1, it appears next to a drawing of [[ICE-E]]. In Ch2, it is located on the back wall of ICE-E pizza restaurant.
+Graffitos of Everyman can be found in the Hometown in both chapters. In Ch1, it appears next to a drawing of <a onclick="loadFile('ICE-E.md')">ICE-E</a>. In Ch2, it is located on the back wall of ICE-E pizza restaurant.
