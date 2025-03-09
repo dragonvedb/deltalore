@@ -98,6 +98,12 @@ path:hover {
     margin-bottom: 6px;
 }
 
+#reader-widget a {
+    color: cornflowerblue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #reader-widget .close-button {
     position: absolute; 
     top: 0px; 
