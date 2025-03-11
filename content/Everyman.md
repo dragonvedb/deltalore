@@ -1,6 +1,6 @@
 **IN UNDERTALE and DELTARUNE**, Everyman is an enigmatic character with an unclear role in the story.
 
-**IN UNDERTALE** it appears as part of the Reaper Bird's attacks. It either starts multiplying its own head and launching the copies at Frisk, or is attacked and tormented by butterflies, limping towards Frisk, seemingly without a head.
+**IN UNDERTALE**, it appears as part of the Reaper Bird's attacks. It either starts multiplying its own head and launching the copies at Frisk, or is attacked and tormented by butterflies, seemingly losing its head.
 
 Its name in the game files is _strangeman_, but early after the game's release, Toby Fox posted the picture of this character on Twitter with the caption 'Everyman' and description "Just a good guy who shows up on occasion". This description was later reused in the Undertale Art Book.
 

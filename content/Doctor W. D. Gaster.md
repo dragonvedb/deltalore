@@ -1,7 +1,7 @@
 *Doctor W. D. Gaster is a mysterious hidden character in UNDERTALE and DELTARUNE. 
 He seems to be extremely important to the overarching narrative of DELTARUNE, yet very little is known about him definitively.* 
 
-IN UNDERTALE, Doctor W. D. Gaster is a secret side-character, featured only in rare random events and unused game code.
+**IN UNDERTALE**, Doctor W. D. Gaster is a secret side-character, featured only in rare random events and unused game code.
 
 Most of the information related to Dr. Gaster comes from the so-called "<a onclick="loadFile('Gaster Followers.md')">Gaster Followers</a>", that have a chance to appear in various locations around Hotland if the hidden <a onclick="loadFile('Fun Events.md')">Fun Value</a> is set to 61, 62, or 63. They explain that Doctor W. D. Gaster was a brilliant inventor, who created the <a onclick="loadFile('CORE.md')">CORE</a> and held the position of the royal scientist before <a onclick="loadFile('Alphys.md')">Alphys</a>. 
 
@@ -19,4 +19,4 @@ The name W. D. Gaster is likely a reference to Wingdings. Thus, he is likely a s
 
 Sans is directly linked to Dr. Gaster by the fact that his weapons are called "Gaster Blasters" in the game files. Sans was also involved in timeline research and might have worked at <a onclick="loadFile('Hotland Lab.md')">the Lab</a> at some point.
 
-IN DELTARUNE, 
+**IN DELTARUNE**, 

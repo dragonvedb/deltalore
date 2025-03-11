@@ -6,5 +6,5 @@ The first three are simple looping tracks a few seconds long.
 
 "Gaster's Theme" is a longer track that cannot be stopped once started. After some time the words "Thanks for your feedback! Be seeing you soon!" appear on the screen and Frisk is thrown out of the room.
 - _Does Gaster's Theme feature in other tracks as a leitmotif?_
-- _Will other tracks besides Gaster's Theme have any significance?_
+- _Do other tracks besides Gaster's Theme have any significance?_
 - _Is there a connection between the line about 'feedback' and the <a onclick="loadFile('Survey Program.md')">Survey Program</a>?_

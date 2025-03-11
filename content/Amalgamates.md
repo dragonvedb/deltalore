@@ -16,7 +16,7 @@ Known Amalgamates are:
 
 **Endogeny** is composed of multiple dog monsters, relatives of the dogs living in Snowdin. In the end of True Pacifist, they are reunited with their family members.
 
-**Lemon Bread** is Shyren's sister melded together with Moldbygg and Aaron. In the end of True Pacifist, they are reunited with Shyren.
+**Lemon Bread** is Shyren's sister melded together with Moldbygg and Aaron. In the end of True Pacifist, she is reunited with Shyren.
 
 **Snowdrake's Mother** is mixed together with parts of sixteen other monsters. In the end of True Pacifist, she is reunited with her family.
 
@@ -24,6 +24,6 @@ Known Amalgamates are:
 
 There is also a strange swinging shape in the bedroom and a mention of "something in the shape of a man" in the fog-filled refrigerator room, which might be the same as the Watching Man or separate entities.
 
-**IN DELTARUNE**, there are a tombstones with the names Muttler, Shyra and Crystal on them near the <a onclick="loadFile('Church.md')">Church</a>. These likely reference Endogeny, Lemon Bread and Snowdrake's Mother.
+**IN DELTARUNE**, there are a tombstones with the names Muttler, Shyra and Crystal in the graveyard near the <a onclick="loadFile('Church.md')">Church</a>. These likely reference Endogeny, Lemon Bread and Snowdrake's Mother.
 
 

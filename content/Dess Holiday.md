@@ -1,4 +1,4 @@
-IN DELTARUNE Dess Holiday is <a onclick="loadFile('Noelle Holiday.md')">Noelle</a>'s older sister, who went missing under unknown circumstances. She was very protective of Noelle and was friends with <a onclick="loadFile('Asriel.md')">Asriel</a>. Noelle has been searching for her name online, suggesting she is believed to be alive.
+**IN DELTARUNE** Dess Holiday is <a onclick="loadFile('Noelle Holiday.md')">Noelle</a>'s older sister, who went missing under unknown circumstances. She was very protective of Noelle and was friends with <a onclick="loadFile('Asriel.md')">Asriel</a>. Noelle has been searching for her name online, suggesting she is believed to be alive.
 - _Why did Dess disappear?_
 	- _Did she run away from home?_
 	- _Did she become trapped inside a Dark World?_
@@ -9,4 +9,3 @@ IN DELTARUNE Dess Holiday is <a onclick="loadFile('Noelle Holiday.md')">Noelle</
 Two Spamton Sweepstakes pages reference Dess. 
 /december/ is styled after Internet Explorer 404 page.
 /dess/ features a picture of a guitar and a music track called _findher.mp3_
-Spamton also uses the word 'f1ndh3r' when talking about Dess during his Q&A.
