@@ -19,5 +19,5 @@ Both Jevil and Spamton mention the Knight. Spamton attempts to explain how the K
 	- _To escape from real world problems?_
 	- _To express themselves creatively?_
 	- _To make new adventures for <a onclick="loadFile('Kris.md')">Kris</a> and <a onclick="loadFile('Red Soul.md')">the Player</a>?_
-- _Note that <a onclick="loadFile('Ralsei.md')">Ralsei</a> never mentions the Knight directly and never states that the goal of the party is to permanently stop the Knight from making more fountains. _
+- _Note that <a onclick="loadFile('Ralsei.md')">Ralsei</a> never mentions the Knight directly and never states that the goal of the party is to permanently stop the Knight from making more fountains._
 

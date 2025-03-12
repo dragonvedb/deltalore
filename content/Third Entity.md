@@ -6,7 +6,7 @@ The existence of the Third Entity is disputed. Some think that the voice at the 
 	- _Do they somehow continue influencing Kris and the story after the Goner Maker sequence?_
 - _Is the Third Entity a character we are aware of?_
 	- *Is it <a onclick="loadFile('The Fallen Child (Chara).md')">Chara</a>?* 
-		- _They are already known to be a strange entity with no physical form and they do wish to move on to other worlds in the end of UT's <a onclick="loadFile('Genocide Route.md')">Genocide Route</a>_.
+		- _They are already known to be a strange entity with no physical form and a desire to move onto other worlds in the end of UT's <a onclick="loadFile('Genocide Route.md')">Genocide Route</a>_.
 		- _Analysis of spelling patterns in Japanese version might support this theory._
 	- *Is it <a onclick="loadFile('Ralsei.md')">Ralsei</a>?*
 	- *Is it the <a onclick="loadFile('Knight.md')">Knight</a>?*
