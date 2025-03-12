@@ -1,4 +1,4 @@
-IN DELTARUNE Starwalker is a secret character, who be found in Ch1 in a room with a Starwalker Bird and a bell.
+**IN DELTARUNE** Starwalker is a secret character, who be found in Ch1 in a room with a Starwalker Bird and a bell.
 
 The Starwalker Bird is an enemy that appears to be a beak-shaped star with two large wings. When the bell is rung, it loses its wings and walks away. The Starwalker then appears in the same room.
 

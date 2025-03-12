@@ -7,6 +7,6 @@ Checking the tree yields "He is behind the tree" and checking behind yields "Wel
 - _Why is attention drawn to the character <a onclick="loadFile('Mysterious Men.md')">being a man</a>? Could he be connected to <a onclick="loadFile('Doctor W. D. Gaster.md')">Gaster</a>? <a onclick="loadFile('Everyman.md')">Everyman</a>?_
 	- _Is it a coincidence that the tree room looks similar to the Fake Hallway?_
 
-If Kris received the egg in Ch 2, a man will appear inside one of the cars on the way to school and wave at them.
+If Kris previously received an egg, in Ch 2 a man will appear inside one of the cars on the way to school and wave at them. The significance of this is unknown.
 
-IN UNDERTALE's <a onclick="loadFile('Hotland Lab.md')">True Lab</a> there is a fog-filled refrigerator room. Inspecting two of the fridges yields "_Something that feels like a tree, ripe with delicious fruit_" and "_Something in <a onclick="loadFile('Mysterious Men.md')">the shape of a man</a>_". Unclear if these are related.
+IN UNDERTALE's <a onclick="loadFile('Hotland Lab.md')">True Lab</a> there is a fog-filled refrigerator room. Inspecting two of the fridges yields "_Something that feels like a tree, ripe with delicious fruit_" and "_Something in <a onclick="loadFile('Mysterious Men.md')">the shape of a man</a>_". It's nclear if these are related to the Man.

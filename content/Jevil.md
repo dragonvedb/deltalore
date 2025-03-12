@@ -1,6 +1,6 @@
-IN DELTARUNE Jevil is the secret boss of Ch1 and a <a onclick="loadFile('Shadow Crystal.md')">Shadow Crystal</a> holder.
+**IN DELTARUNE**, Jevil is the secret boss of Ch1 and a <a onclick="loadFile('Shadow Crystal.md')">Shadow Crystal</a> holder.
 
-He used to be a jester in the royal court, until he met an unknown person, who revealed to him that the world is one giant game. After he started talking about it, the Four Kings ordered <a onclick="loadFile('Seam.md')">Seam</a> to seal Jevil in the castle's basement.
+He used to be a jester in the royal court, until he met someone, who revealed to him that his world is simply a game. After he started talking about it, the Four Kings ordered <a onclick="loadFile('Seam.md')">Seam</a> to seal Jevil in the castle's basement.
 
 Despite this, Jevil believes himself to be all-powerful and the only free person in the world.
 
