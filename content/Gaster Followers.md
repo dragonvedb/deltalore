@@ -1,4 +1,4 @@
-IN UNDERTALE, Gaster Followers are three mysterious gray figures that have a chance to appear in Hotland at certain <a onclick="loadFile('Fun Events.md')">Fun Values</a>. Each of them relays a part of Dr. Gaster's backstory. It is unknown who or what they are, how they are connected to Dr. Gaster, or why they look like subtly changed versions of other minor characters.
+**IN UNDERTALE**, Gaster Followers are three mysterious gray figures that have a chance to appear in Hotland at certain <a onclick="loadFile('Fun Events.md')">Fun Values</a>. Each of them relays a part of Dr. Gaster's backstory. It is unknown who or what they are, how they are connected to Dr. Gaster, or why they look like subtly changed versions of other minor characters.
 
 Below is a list of the followers with their respective dialogue and Fun Values:
 
@@ -13,7 +13,7 @@ Below is a list of the followers with their respective dialogue and Fun Values:
 
 - **62 *(50% chance)* - Gaster Follower #1** looks similar to the Ficus Licker.
   Dialogue:
-	- _It makes sense why <a onclick="loadFile('ASGORE.md')">ASGORE</a> took so long to hire a new Royal Scientist._
+	- _It makes sense why <a onclick="loadFile('Asgore.md')">ASGORE</a> took so long to hire a new Royal Scientist._
 	- _After all, the old one... Dr. Gaster. What an act to follow!_
 	- _They say he created the <a onclick="loadFile('CORE.md')">CORE</a>._
 	- _However, his life... Was cut short._
@@ -23,7 +23,7 @@ Below is a list of the followers with their respective dialogue and Fun Values:
 
 - **63 *(50% chance)* - Gaster Follower #3** has no analogue in UNDERTALE, but looks similar to the Striped Bird from DELTARUNE.
   Dialogue:
-	- _I understand why <a onclick="loadFile('ASGORE.md')">ASGORE</a> waited so long to hire a new Royal Scientist._
+	- _I understand why <a onclick="loadFile('Asgore.md')">ASGORE</a> waited so long to hire a new Royal Scientist._
 	- _The previous one... Dr. Gaster._
 	- _His brilliance was irreplaceable._
 	- _However, his life... Was cut short._

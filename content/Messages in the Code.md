@@ -1,26 +1,26 @@
-IN DELTARUNE there are a number of lines hidden in the game files, whose names start with *"unused"*. They are coming from someone trapped in a dark place.
+**IN DELTARUNE**, there are a number of lines hidden in the game files, marked as *"unused"*. They are coming from someone trapped in a dark place.
 
 **The messages in Ch1:**
-*Where...
-Where am I?
-Hello...? Anyone...?
-Is... is anybody out there...?
-Someone!? Anyone!? Can anyone hear me!?
-...
-It's dark.
-It's so dark here.
-Someone, anyone, if you can hear me...
-Say something... please...*
+Where...</br>
+Where am I?</br>
+Hello...? Anyone...?</br>
+Is... is anybody out there...?</br>
+Someone!? Anyone!? Can anyone hear me!?</br>
+...</br>
+It's dark.</br>
+It's so dark here.</br>
+Someone, anyone, if you can hear me...</br>
+Say something... please...</br>
 
 **The messages in Ch2:**
-*No one can hear me, can they?
-...
-I guess not.
-To be honest, I'm not even sure I can hear myself.
-It's so quiet here...
-... and yet, sometimes,
-I swear I hear something...
-Something like... scratching?*
+No one can hear me, can they?</br>
+...</br>
+I guess not.</br>
+To be honest, I'm not even sure I can hear myself.</br>
+It's so quiet here...</br>
+... and yet, sometimes,</br>
+I swear I hear something...</br>
+Something like... scratching?</br>
 
 - _Who is saying these words?_
 	- _<a onclick="loadFile('December Holiday.md')">December Holiday</a>?_

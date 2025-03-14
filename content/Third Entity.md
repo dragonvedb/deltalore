@@ -1,4 +1,4 @@
-**IN DELTARUNE** Third Entity refers to an unknown character (neither <a onclick="loadFile('Doctor W. D. Gaster.md')">Gaster</a> nor <a onclick="loadFile('Red Soul.md')">Player</a>), who interrupts the <a onclick="loadFile('Goner Maker.md')">Goner Maker</a> sequence, discards the <a onclick="loadFile('Vessel.md')">Vessel</a> and tells the Player that *"no one can choose who they are in this world"*, thus introducing the themes of fate and freedom that run through the entire game.
+**IN DELTARUNE**, Third Entity refers to an unknown character (neither <a onclick="loadFile('Doctor W. D. Gaster.md')">Gaster</a> nor <a onclick="loadFile('Red Soul.md')">Player</a>), who interrupts the <a onclick="loadFile('Goner Maker.md')">Goner Maker</a> sequence, discards the <a onclick="loadFile('Vessel.md')">Vessel</a> and tells the Player that *"no one can choose who they are in this world"*, thus introducing the themes of fate and freedom that run through the entire game.
 
 The existence of the Third Entity is disputed. Some think that the voice at the end of Goner Maker is still Gaster's, while opponents point to an abrupt change in tone and font as evidence.
 	

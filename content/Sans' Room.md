@@ -1,4 +1,4 @@
-IN UNDERTALE, Sans's room is located on the second floor of skeleton brothers' house. The door is locked and strange colorful flames are bursting out from underneath it, similar to DELTARUNE"S <a onclick="loadFile('Warp Door.md')">Warp Door</a>. When interacting with the door, <a onclick="loadFile('Papyrus.md')">Papyrus</a> remarks that Sans' room is "like another world..."
+**IN UNDERTALE**, Sans's room is located on the second floor of skeleton brothers' house. The door is locked and strange colorful flames are bursting out from underneath it, similar to DELTARUNE"S <a onclick="loadFile('Warp Door.md')">Warp Door</a>. When interacting with the door, <a onclick="loadFile('Papyrus.md')">Papyrus</a> remarks that Sans' room is "like another world..."
 - _Is the _
 
 To access the room, Frisk has to prove to Sans that they are a time traveler by learning his special password and repeating it back to him in the past. Sans then gives Frisk the key and says "it's time you learn the truth".
