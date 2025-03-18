@@ -8,7 +8,7 @@ To access the room, Frisk has to prove to Sans that they are a time traveler by 
 Upon entering the room, it appears entirely black and seems to be much bigger on the inside. After Frisk moves through the darkness for some time, Papyrus comes in and turns on the lights, revealing that Frisk was actually walking on a treadmill, with a note attached to it that reads "the truth is that you got dunked pal..." Papyrus then asks "Is Sans pranking you across time and space?"
 
 The fakeout is averted though, as the room contains the Silver Key, which opens the door to <a onclick="loadFile('Sans\'s Workshop.md')">Sans's Workshop</a>.
-- _Does Sans's room really exist outside of normal space?_
+- _Does Sans's room actually exist outside of normal space?_
 - _Note that words 'time and space' appear several more times in UT and DR:_
 	- _<a onclick="loadFile('Doctor W. D. Gaster.md')">W.D. Gaster</a> was 'scattered across time and space'._
 	- _DELTARUNE's<a onclick="loadFile('Prophecy.md')">Prophecy</a> was 'foretold by time and space'._

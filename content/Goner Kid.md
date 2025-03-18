@@ -1,4 +1,4 @@
-IN UNDERTALE, Goner Kid is a character that appears in Waterfall if the <a onclick="loadFile('Fun Events')">Fun Value</a> is between 90  and 100. They look like a gray white-eyed version of Monster Kid.
+**IN UNDERTALE**, Goner Kid is a character that appears in Waterfall if the <a onclick="loadFile('Fun Events')">Fun Value</a> is between 90  and 100. They look like a gray white-eyed version of Monster Kid.
 
 Their dialogue is:
 - _Have you ever thought about a world where everything is exactly the same..._

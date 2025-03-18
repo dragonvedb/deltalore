@@ -1,4 +1,4 @@
-IN UNDERTALE Sans' workshop is located in the back of skeleton brothers' house. The door is out of view and can be open with the Silver Key found in <a onclick="loadFile('Sans\' Room.md')">|Sans's room</a>.
+**IN UNDERTALE**, Sans' workshop is located in the back of skeleton brothers' house. The door is out of view and can be open with the Silver Key found in <a onclick="loadFile('Sans\' Room.md')">|Sans's room</a>.
 
 Inside is a number o enigmatic objects that further complicate Sans' backstory.
 

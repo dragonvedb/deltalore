@@ -9,6 +9,8 @@ With Seam's help, <a onclick="loadFile('Kris.md')">Kris</a> can unlock Jevil's c
 One of Jevil's attacks has a small chance to involve a duck with the head of the <a onclick="loadFile('Everyman.md')">Everyman</a>. The significance of this is unknown.
 
 At the end of the fight, Jevil foretells the future.
+
 If defeated peacefully, he says *"FROM NOW, A NIGHTMARE WILL AWAKEN IN YOUR HEARTS. IN THE SHADOW OF THE KNIGHT'S HAND..."* and gives Kris the Devilstail armour.
+
 If defeated violently, he says *"THE HAND OF THE KNIGHT IS DRIFTING FORWARD. SOON, THE "QUEEN" RETURNS, AND HELL'S ROAR BUBBLES FROM THE DEPTHS..."* and transforms into the Devilsknife weapon.
 

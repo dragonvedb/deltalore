@@ -1,4 +1,4 @@
-IN UNDERTALE the Fun Value is a hidden variable that is set to random number between 1 and 100 after every reset. Various anomalous events and characters may appear depending on this value, many of which (and possibly all of them) are connected in one way or another to <a onclick="loadFile('Doctor W. D. Gaster.md')">Doctor W. D. Gaster</a>.
+**IN UNDERTALE**, the Fun Value is a hidden variable that is set to random number between 1 and 100 after every reset. Various anomalous events and characters may appear depending on this value, many of which (and possibly all of them) are connected in one way or another to <a onclick="loadFile('Doctor W. D. Gaster.md')">Doctor W. D. Gaster</a>.
 
 ---
 The first three of the 'fun' events involve <a onclick="loadFile('Misplaced Calls.md')">misplaced phone calls</a>. 

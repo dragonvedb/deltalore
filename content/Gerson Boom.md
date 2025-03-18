@@ -1,10 +1,10 @@
-IN UNDERTALE Gerson Boom is a tortoise monster who keeps a shop in Waterfall. He is one of the oldest characters in the game, old enough to be fighting in the Human-Monster War. Afterwards he spent a long time fighting criminals under the nickname "Hammer of Justice".
+**IN UNDERTALE**, Gerson Boom is a tortoise monster who keeps a shop in Waterfall. He is one of the oldest characters in the game, old enough to be fighting in the Human-Monster War. Afterwards he spent a long time fighting criminals under the nickname "Hammer of Justice".
 
 Gerson has a keen interest in history. He tells Frisk the prophecy of Delta Rune and explains that Boss Monsters like <a onclick="loadFile('Asgore.md')">Asgore</a> and <a onclick="loadFile('Toriel.md')">Toriel</a> don't age unless they have a living child.
 
 In Genocide route, he seems to know that Frisk cannot attack him inside the shop, adding _"Knowledge like that is the only reason I've survived so long"_.
 
-IN DELTARUNE Gerson Boom is dead and his grave can be found in graveyard near the <a onclick="loadFile('Church.md')">Church</a>. He is survived by his son <a onclick="loadFile('Father Alvin.md')">Alvin</a>, Hometown's priest, and possibly other relatives. 
+**IN DELTARUNE**, Gerson Boom is dead. His grave can be found in graveyard near the <a onclick="loadFile('Church.md')">Church</a>. He is survived by his son <a onclick="loadFile('Father Alvin.md')">Alvin</a>, Hometown's priest, and possibly other relatives. 
 
 In life he was a smith, a historian, a famous fantasy author and a teacher. Two of his books are mentioned in the game: a fantasy novel "Lord of the Hammer" and a history book "The History of Humans and Monsters", of which <a onclick="loadFile('Toriel.md')">Toriel</a> has a signed copy.
 

@@ -1,4 +1,4 @@
-IN DELTARUNE the "Pain Poem" is a series of rhyming error messages hidden in the game's code:
+**IN DELTARUNE**, the "Pain Poem" is a series of rhyming error messages hidden in the game's code:
 
 - *"Is that a cut on your face or part of your eye?"*
 - *"The gash weaves down as if you cry."*

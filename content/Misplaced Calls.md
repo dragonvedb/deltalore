@@ -1,4 +1,4 @@
-IN UNDERTALE, misplaced calls are a series of <a onclick="loadFile('Fun Events.md')">Fun Events</a> that can occur in Snowdin. One comes from an unknown caller, two others come from <a onclick="loadFile('Sans.md')">Sans</a> and <a onclick="loadFile('Alphys.md')">Alphys</a>.
+**IN UNDERTALE**, misplaced calls are a series of <a onclick="loadFile('Fun Events.md')">Fun Events</a> that can occur in Snowdin. One comes from an unknown caller, two others come from <a onclick="loadFile('Sans.md')">Sans</a> and <a onclick="loadFile('Alphys.md')">Alphys</a>.
 - _Could the calls be coming from the past or the future? Or from another universe entirely?_
 - _Note that both Alphys and Sans have connections to the <a onclick="loadFile('Hotland Lab.md')">Hotland Lab</a> and <a onclick="loadFile('Doctor W. D. Gaster.md')">W. D. Gaster</a>._
 
