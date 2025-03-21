@@ -14,5 +14,5 @@ However, if Frisk holds an umbrella, they instead say:
 - _Please forget about me._
 - _Please don't think about this anymore._
 
-If talked to while in Debug Mode, they say "_Yo! You're a ??? too, right?_". The significance of this is unknown.
+If talked to while in Debug Mode, they say *"Yo! You're a ??? too, right?"*. The significance of this is unknown.
 

@@ -1,7 +1,9 @@
 **IN DELTARUNE**, the Knight is an enigmatic character who opened Dark Fountains in the unused classroom and in the computer lab.
 
-The rulers of both Dark Worlds revere the Knight and wish to carry out their will, though they don't actually know much about them. 
+The rulers of both Dark Worlds revere the Knight and wish to carry out their will, though they don't actually know much about them.
+
 The King was elevated to power by the Knight and believes that opening the fountains will let Darkners rule over Lightners. 
+
 The Queen believes fountains will create a paradise where Lightners will be eternally happy. She wants <a onclick="loadFile('Noelle Holiday.md')">Noelle</a> to take the Knight's place and continue making more fountains.
 
 The Queen repeatedly refers to the Knight as "the Roaring Knight", even though she does not know about <a onclick="loadFile('The Roaring.md')">the Roaring</a>. It's unknown where she got this name from.
