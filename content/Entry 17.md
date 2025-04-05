@@ -25,4 +25,4 @@ The second, more well-known one, can be seen by accessing hidden *room_gaster* a
 		- _<a onclick="loadFile('Sans.md')">Sans</a> and <a onclick="loadFile('Papyrus.md')">Papyrus</a>?_
 		- _Sans and <a onclick="loadFile('Alphys.md')">Alphys</a>?_
 
-**IN DELTARUNE**, the text of Entry 17 is referenced by <a onclick="loadFile('Seam.md')">Seam</a>. They tell that after listening to <a onclick="loadFile('Jevil.md')">Jevil</a> (who likely communicated with Gaster at some point) their worldview became "darker, yet darker".
+**IN DELTARUNE**, the text of Entry 17 is referenced by <a onclick="loadFile('Seam.md')">Seam</a>. They say that after listening to <a onclick="loadFile('Jevil.md')">Jevil</a> (who likely communicated with Gaster at some point) their worldview became "darker, yet darker".
