@@ -10,7 +10,7 @@ In the True Pacifist ending, Toriel becomes a teacher.
 
 Toriel's Alarm Clock dialogue suggests she went through periods of severe depression and might be susceptible to alcoholism.
 
-**IN DELTARUNE**, Toriel is Kris's adoptive mother and works as a school teacher. Just lik in UT, she is divorced from Asgore and rejects his attempts to mend their relationship (such as throwing away the bouqets he gifts her). She gets along well with Sans, even though he moved into Hometown very recently.
+**IN DELTARUNE**, Toriel is Kris's adoptive mother and works as a school teacher. Just like in UT, she is divorced from Asgore and rejects his attempts to mend their relationship (such as throwing away the bouqets he gifts her). She gets along well with Sans, even though he moved into Hometown very recently.
 
 Toriel is protective of Kris, which is shown through things like holding their hand while walking from parking lot to class, participating as their partner in group projects, excessively worrying when they are late home, etc.
 

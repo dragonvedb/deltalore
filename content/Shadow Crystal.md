@@ -1,4 +1,4 @@
-IN DELTARUNE Shadow Crystals are items obtained after defeating Secret Bosses. They are described as being translucent, yet still casting a sharp shadow.
+**IN DELTARUNE**, Shadow Crystals are items obtained after defeating Secret Bosses. They are described as being translucent, yet still casting a sharp shadow.
 
 Looking through a Shadow Crystal while in the Dark World lets one glimpse the corresponding Light World location. 
 

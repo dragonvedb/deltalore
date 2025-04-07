@@ -1,7 +1,7 @@
 **IN UNDERTALE**, the phrase "don't forget" is written on a drawing found in<a onclick="loadFile('Sans\' Workshop.md')"> Sans's Workshop</a>. The drawing depicts three people. Strangely, it appears only after speaking to <a onclick="loadFile('Clam Girl.md')">Clam Girl</a>.
 - _Considering that Clam Girl probably foreshadows DELTARUNE, could the drawing be of the three heroes of the <a onclick="loadFile('Prophecy.md')">Prophecy</a>?_
 
-In DELTARUNE, "Don't Forget" is a song that plays at the end of Ch1. 
+**IN DELTARUNE**, "Don't Forget" is a song that plays at the end of Ch1. 
 
 The lyrics are:
 *When the light is running low and the shadows start to grow*

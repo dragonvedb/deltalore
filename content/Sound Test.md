@@ -1,4 +1,4 @@
-IN UNDERTALE, Sound Test is a room that has a 50% chance to appear after the battle with Papyrus if the Fun Value equals 65. It can also be accessed from the <a onclick="loadFile('Redacted.md')">Redacted</a> room, though the significance of this is unknown.
+**IN UNDERTALE**, Sound Test is a room that has a 50% chance to appear after the battle with Papyrus if the Fun Value equals 65. It can also be accessed from the <a onclick="loadFile('Redacted.md')">Redacted</a> room, though the significance of this is unknown.
 
 In this room the Player can listen to four unused music tracks: "Happy Town", "Meat Factory", "Trouble Dingle" and finally "<a onclick="loadFile('Doctor W. D. Gaster.md')">Gaster's</a> Theme" (called *mus_st_him* in the game files). 
 

@@ -1,4 +1,4 @@
-IN DELTARUNE, the Roaring is a cataclysm that is supposed to occur if the balance between Light and Dark tips too much in favour of Dark. <a onclick="loadFile('Ralsei.md')">Ralsei</a> explains it in effort to stop Berdly from opening another Dark Fountain while already inside a <a onclick="loadFile('Dark Worlds.md')">Dark World</a>.
+**IN DELTARUNE**, the Roaring is a cataclysm that is supposed to occur if the balance between Light and Dark tips too much in favour of Dark. <a onclick="loadFile('Ralsei.md')">Ralsei</a> explains it in effort to stop Berdly from opening another Dark Fountain while already inside a <a onclick="loadFile('Dark Worlds.md')">Dark World</a>.
 
 Ralsei's description is as follows:
 	When the LIGHT is subsumed by SHADOW  

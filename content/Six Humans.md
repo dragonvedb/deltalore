@@ -1,4 +1,4 @@
-IN UNDERTALE. six humans fell into the Underground between the times of Chara and Frisk. All of them died in one way or another. Their bodies were laid to rest in coffins inside the palace, and their <a onclick="loadFile('Souls.md')">Souls</a> were preserved by <a onclick="loadFile('Asgore.md')">Asgore</a> in special glass containers.
+**IN UNDERTALE**. six humans fell into the Underground between the times of Chara and Frisk. All of them died in one way or another. Their bodies were laid to rest in coffins inside the palace, and their <a onclick="loadFile('Souls.md')">Souls</a> were preserved by <a onclick="loadFile('Asgore.md')">Asgore</a> in special glass containers.
 
 The <a onclick="loadFile('Souls.md')">souls</a> of the six humans each have a unique colour and associated trait. These are known through the Ball Game, where the colour and description of the flag changes depending on the amount of time needed to complete thr game.
 
