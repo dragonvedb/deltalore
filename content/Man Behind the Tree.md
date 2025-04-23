@@ -9,4 +9,4 @@ Checking the tree yields "He is behind the tree" and checking behind yields "Wel
 
 If Kris previously received an egg, in Ch 2 a man will appear inside one of the cars on the way to school and wave at them. The significance of this is unknown.
 
-**IN UNDERTALE's** <a onclick="loadFile('Hotland Lab.md')">True Lab</a> there is a fog-filled refrigerator room. Inspecting two of the fridges yields "_Something that feels like a tree, ripe with delicious fruit_" and "_Something in <a onclick="loadFile('Mysterious Men.md')">the shape of a man</a>_". It's nclear if these are related to the Man Behind the Tree.
+**IN UNDERTALE's** <a onclick="loadFile('Hotland Lab.md')">True Lab</a> there is a fog-filled refrigerator room. Inspecting two of the fridges yields "_Something that feels like a tree, ripe with delicious fruit_" and "_Something in <a onclick="loadFile('Mysterious Men.md')">the shape of a man</a>_". It's unclear if these are related to the Man Behind the Tree.

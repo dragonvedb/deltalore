@@ -8,7 +8,7 @@ In Genocide route, she loses all of her health after one hit, similarly to other
 
 In True Pacifist route, Undyne overcomes her hatred of humans and befriends Frisk. With Frisk's help, she confesses her feelings to <a onclick="loadFile('Alphys.md')">Alphys</a> and they begin dating.
 
-IN DELTARUNE Undyne is the Police Chief. <a onclick="loadFile('Asgore.md')">Asgore</a> was her predecessor and possibly her former boss, before being removed for unknown reasons.
+**IN DELTARUNE**, Undyne is the Police Chief. <a onclick="loadFile('Asgore.md')">Asgore</a> was her predecessor and possibly her former boss, before being removed for unknown reasons.
 
 In contrast to UNDERTALE, DT's Undyne doesn't inititaly know <a onclick="loadFile('Alphys.md')">Alphys</a>. In Ch2 she asks Kris to deliver a box of heart-shaped candy to Alphys after she crashes her bike. The box is accompanied by a note that reads "_Get Well Soon_", addressed to the bike.
 
