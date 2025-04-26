@@ -2,9 +2,9 @@
 
 He is incredibly long-lived due to being a Boss Monster, a unique kind of monster who doesn't age, unless they have a living child. It also makes his Soul able to persist outside of his body for a short while. This means that any human must absorb his Soul in order to leave the Underground through the Barrier.
 
-Even though Asgore and Gerson agreed that monsters should not try to return to the surface, after Asriel's death Asgore declared a war on humanity, promising to kill every human that fell into the Underground, absorb their Souls, break the Barrier (which require seven human souls) and exterminate humanity.
+Even though Asgore and Gerson agreed that monsters should not try to return to the surface, after Asriel's death Asgore declared a war on humanity, promising to kill every human that fell into the Underground, absorb their Souls, break the Barrier (which requires seven human souls) and exterminate humanity.
 
-Disagreeing with Asgore's plan, Toriel left him.
+Disagreeing with Asgore's plan, Toriel left him and went into exile.
 
 Because of Asgore's generally kind and indecisive personality, he decided to delay the war as much as possible, by waiting until seven humans randomly fall into the Underground and preserving their Souls in glass containers, instead of absorbing the Soul of one, crossing the Barrier on his own and getting six more.
 
@@ -14,7 +14,7 @@ On Neutral Route, Frisk eventually defeats Asgore. If they spare him, he briefly
 
 In the True Pacifist ending, Asgore ends up working as a gardener in Toriel's school.
 
-**IN DELTARUNE**, Asgore is also Kris's adoptive father. He is divorced from Toriel, but still feels affection towards her, just like in UT.
+**IN DELTARUNE**, Asgore is Kris's adoptive father. He is divorced from Toriel, but still feels affection towards her, just like in UT.
 
 He was Hometown's former Police Chief (thus likely Undyne's former boss), before resigning for unknown reasons. Currently he runs the Flower King, though the buisiness is going poorly. 
 
