@@ -11,7 +11,7 @@ If an <a onclick="loadFile('Egg.md')">Egg</a> has been acquired in Ch1, Kris wil
 
 On the far side of the room there is a locked double door. Inspecting the side of the building from outside reveals that there is a door in the back of the shop as well, blocked by flowers. It's unclear whether these are two different doors or not.
 - _Will the Flower King host a Dark World in one of the future chapters?_
-- _Note thst special attention is drawn to the back door by a nearby NPC._
+- _Note that special attention is drawn to the back door by a nearby NPC._
 
 
 
