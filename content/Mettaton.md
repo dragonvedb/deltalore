@@ -2,7 +2,7 @@
 
 Mettaton was originally a ghost (Napstablook's cousin, possibly inititally called Hapstablook) with an interest in humans and human culture. He founded the Human Fanclub, where he met Alphys. She offered to create a robotic body for Mettaton that he could inhabit and control.
 
-After becoming a robot, Mettaton launched his career in media and quicly became popular.
+After becoming a robot, Mettaton launched his career in media and quickly became popular.
 
 After Frisk fell into the Undergorund, Alphys asked Mettaton to pretent to be a human-hating kill robot, so that Alphys might pretend to 'save' Frisk from him, in order to win Frisk's trust and convince them to stay in the Underground. Mettaton initially agreed, but at the very end decided to actually kill Frisk, absorb their Soul, cross the barrier and become a superstar on the Surface. During this battle he transforms into a new advanced and human-like form called Mettaton EX.
 
