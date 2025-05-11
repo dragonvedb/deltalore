@@ -30,14 +30,14 @@ On the following day, the account posted "I LOOK FORWARD TO CREATING A NEW FUTUR
 A link to deltarune.com was provided, which hosted a file labeled SURVEY_PROGRAM (which contained Ch1 of DELTARUNE). The file had a version number of 0.6.6.6 and asked the user to accept "EVERYTHING THAT WILL HAPPEN FROM NOW ON" before installation.
 
 When the SURVEY_PROGRAM is launched, Dr. Gaster greets the establishes the connection to the Player. After <a onclick="loadFile('Red Soul.md')">the Red Soul</a> appears, he starts <a onclick="loadFile('Goner Maker.md')">the Goner Maker</a> sequence and guides the Player through the process creating a <a onclick="loadFile('Vessel.md')">Vessel</a> for the Soul, until he is suddenly interrupted by <a onclick="loadFile('Third Entity.md')">an unknown speaker</a>.
-- _The music track that plays during this part is named ANOTHER HIM, referencing *mus_st_him* <a onclick="loadFile('Sound Test.md')">(Gaster's Theme')' from UT._
+- _The music track that plays during this part is named ANOTHER HIM, referencing *mus_st_him* (<a onclick="loadFile('Sound Test.md')">Gaster's Theme</a>) from UT._
 
-Afterwards, Gaster seems to assist the Player with saving and loading, parts of the outer layer of the game, known as <a onclick="loadFile('DEVICE.md')">the DEVICE.
+Afterwards, Gaster seems to assist the Player with saving and loading, parts of the outer layer of the game, known as <a onclick="loadFile('DEVICE.md')">the DEVICE</a>.
 
-<a onclick="loadFile('mus_smile.md')">*mus_smile*, the sound that plays over <a onclick="loadFile('Entry 17.md')">Entry 17 in UT, is heard whenever <a onclick="loadFile('Kris.md')">Kris tries to make a phone call while in <a onclick="loadFile('Dark Worlds.md')">the Dark World. The narration describes it as "garbage noise". 
-- _"Garbage noise" also played when <a onclick="loadFile('Spamton G. Spamton.md')">Spamton tried to contact his mysterious caller for the last time. So it is likely Gaster was the one who somehow made him succesful._
-    - _Gaster was probably also the stranger, who drove <a onclick="loadFile('Jevil.md')">Jevil insane. <a onclick="loadFile('Seam.md')">Seam even quotes Entry 17 when he says that listening to Jevil "made his outlook darker, yet darker"._
+<a onclick="loadFile('mus_smile.md')">*mus_smile*</a>, the sound that plays over <a onclick="loadFile('Entry 17.md')">Entry 17</a> in UT, is heard whenever <a onclick="loadFile('Kris.md')">Kris</a> tries to make a phone call while in <a onclick="loadFile('Dark Worlds.md')">the Dark World</a>. The narration describes it as "garbage noise". 
+- _"Garbage noise" also played when <a onclick="loadFile('Spamton G. Spamton.md')">Spamton</a> tried to contact his mysterious caller for the last time. So it is likely Gaster was the one who somehow made him succesful._
+    - _Gaster was probably also the stranger, who drove <a onclick="loadFile('Jevil.md')">Jevil</a> insane. <a onclick="loadFile('Seam.md')">Seam</a> even quotes Entry 17 when he says that listening to Jevil "made his outlook darker, yet darker"._
 
-*mus_smile* also plays in the vicinity of <a onclick="loadFile('Bunker.md')">the Bunker, slowed down by 666%.
+*mus_smile* also plays in the vicinity of <a onclick="loadFile('Bunker.md')">the Bunker</a>, slowed down by 666%.
 
-- _Gaster's name cannot be entered during <a onclick="loadFile('Name Selector.md')">the name selection in both UNDERTALE and DELTARUNE._
+- _Gaster's name cannot be entered during <a onclick="loadFile('Name Selector.md')">the name selection</a> in both UNDERTALE and DELTARUNE._
