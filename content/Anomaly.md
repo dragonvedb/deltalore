@@ -2,11 +2,11 @@
 
 Tha Anomaly is mentioned exlusively by <a onclick="loadFile('Sans.md')">Sans</a> on the Genocide route:
 
-*Our reports showed a massive anomaly in the time-space continuum.*
-*Timelines jumping left and right, stopping and starting...*
-*Until suddenly, everything ends.*
-*Heheheh...*
-*That's your fault, isn't it?*
+- *Our reports showed a massive anomaly in the time-space continuum.*
+- *Timelines jumping left and right, stopping and starting...*
+- *Until suddenly, everything ends.*
+- *Heheheh...*
+- *That's your fault, isn't it?*
 
 <a onclick="loadFile('Sans.md')">Sans</a> believes <a onclick="loadFile('Frisk.md')">Frisk</a> to be the Anomaly, but doesn't kill them on sight because of the promise he made to <a onclick="loadFile('Toriel.md')">Toriel</a>. Only during Genocide does he decide to intervene, since the alternative would be the end of the world.
 
