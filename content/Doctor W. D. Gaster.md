@@ -22,7 +22,7 @@ Sans is also directly linked to Dr. Gaster by the fact that his weapons are call
 
 **IN DELTARUNE**, Dr. Gaster features much more prominently, but, as of yet, his name has not been mentioned directly.
 
-Years before the release of DELTARUNE, an image with the name _him.png_ was posted on deltarune.com. The image contained very faint text in Wingdings that read "THIS NEXT EXPERIMENT SEEMS VERY VERY INTERESTING", a quote from <a onclick="loadFile('Entry 17.md')">Entry 17</a>. Later, the image was changed to say "THREE HEROES APPEARED TO BANISH THE <a onclick="loadFile('Angels.md')">ANGELS</a> <a onclick="loadFile('Haven.md')">HAVEN</a>", which is a rephrasing of a part of <a onclick="loadFile('Prophecy.md')">the Prophecy</a>.
+Years before the release of DELTARUNE, an image with the name _him.png_ was posted on deltarune.com. The image contained very faint text in Wingdings that read "THIS NEXT EXPERIMENT SEEMS VERY VERY INTERESTING", a quote from <a onclick="loadFile('Entry 17.md')">Entry 17</a>. Later, the image was changed to say "THREE HEROES APPEARED TO BANISH THE <a onclick="loadFile('Angel.md')">ANGELS</a> <a onclick="loadFile('Heaven.md')">HEAVEN</a>", which is a rephrasing of a part of <a onclick="loadFile('Prophecy.md')">the Prophecy</a>.
 
 The release of SURVEY_PROGRAM was announced on Twitter by an account with a blacked out name, writing in a tone similar to that of Entry 17. It said that it will show the player something they will find "VERY, VERY, INTERESTING", but incomplete; and that it is going to "APPROACH ITS REALIZATION" by asking several questions of the player. 
 On the following day, the account posted "I LOOK FORWARD TO CREATING A NEW FUTURE WITH YOU", followed by "SHOW YOURSELF ! DELTA RUNE !"
