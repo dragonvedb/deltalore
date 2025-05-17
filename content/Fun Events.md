@@ -1,4 +1,4 @@
-**IN UNDERTALE**, the Fun Value is a hidden variable that is set to random number between 1 and 100 after every reset. Various anomalous events and characters may appear depending on this value, many of which (and possibly all of them) are connected in one way or another to <a onclick="loadFile('Doctor W. D. Gaster.md')">Doctor W. D. Gaster</a>.
+**IN UNDERTALE**, the Fun Value is a hidden variable that is set to random number between 1 and 100 after every <a onclick="loadFile('Susie.md')">True Reset</a>. Various anomalous events and characters may appear depending on this value, many of which (and possibly all of them) are connected to <a onclick="loadFile('Doctor W. D. Gaster.md')">Doctor W. D. Gaster</a>.
 
 ---
 The first three of the 'fun' events involve <a onclick="loadFile('Misplaced Calls.md')">misplaced phone calls</a>. 
@@ -17,12 +17,14 @@ The next five events all directly reference <a onclick="loadFile('Doctor W. D. G
 - 61 *(20% chance)* - <a onclick="loadFile('Gaster Followers.md')">Gaster's Follower 2</a>
 - 62 *(50% chance)* - <a onclick="loadFile('Gaster Followers.md')">Gaster's Follower 1</a>
 - 63 *(50% chance)* - <a onclick="loadFile('Gaster Followers.md')">Gaster's Follower 3</a> 
-- 65 (*50% chance)* - <a onclick="loadFile('Sound Test.md')">Sound Test</a>
+- 65 *(50% chance)* - <a onclick="loadFile('Sound Test.md')">Sound Test</a>
 - 66 *(10% chance for Mystery Man room)* - <a onclick="loadFile('>Mystery Man.md')">Fake Hallway</a>
 
 ---
-The last two events feature 'goners', a term with unclear meaning. 
-In UNDERTALE, it is also used by <a onclick="loadFile('Alphys.md')">Alphys</a> in reference to monsters on the verge of death (who would later become <a onclick="loadFile('Amalgamates.md')">Amalgamates</a>); while DELTARUNE starts with the <a onclick="loadFile('Goner Maker.md')">Goner Maker sequence</a>.
+The last two events feature 'goners', a term with unclear meaning.
+- _The word 'goner' is used by <a onclick="loadFile('Alphys.md')">Alphys</a> to refer to monsters who have fallen down and would have died if she didn't inject them with <a onclick="loadFile('Determination.md')">Determination</a>. Though this might not have any special significance._
+- _<a onclick="loadFile('Asriel.md')">Asriel's</a> most powerful attack is name 'Hyper Goner'._
+- _DELTARUNE opens with <a onclick="loadFile('Goner Maker.md')">the Goner Maker</a> sequence._
 
-- 80-89 *(81 for Goner Clam Girl)* - <a onclick="loadFile('Clam Girl.md')">Clam Girl</a>
+- 80-89 *(81% for goner version)* - <a onclick="loadFile('Clam Girl.md')">Clam Girl</a>
 - 90-100 - Goner Kid
