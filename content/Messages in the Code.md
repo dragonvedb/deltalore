@@ -31,8 +31,11 @@ Something like... scratching?</br>
 	- _Beyond time and space?_
 - _Where is the scratching coming from?_
 
-Additionally, while talking with Spamton in his shop, asking him about "FEAR" yields:
-"WHAT ARE YOU AFRAID OF??? ACCORDING TO [Encyclopedia of Being Afraid] THERE'S NOTHING TO FEAR EXCEPT ... ... can anyone hear me? Help... HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!! ... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."
+Additionally, while talking with <a onclick="loadFile('Spamton G. Spamton.md')">Spamton</a> in his shop, asking him about "FEAR" yields:
+WHAT ARE YOU AFRAID OF??? ACCORDING TO [Encyclopedia of Being Afraid]
+THERE'S NOTHING TO FEAR EXCEPT
+... ... can anyone hear me? Help...
+HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!!
+... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."
 
-- _Is this the same person as in the messages above?_
-	- _How are they communicating through Spamton?_
+- _This seems to be the same person as in the messages above, though it's unclear how they are speaking through Spamton._
