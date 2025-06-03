@@ -40,7 +40,8 @@ main {
     align-items: center;
     z-index: 200;
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0);
+    opacity: 0.9;
     color: white;
     border: solid 5px white;
     text-align: center;
@@ -81,7 +82,7 @@ path:hover {
     background-color: rgb(20, 20, 20);
     color: white;
     border: solid 5px white;
-    padding: 13px 15px;
+    padding: 10px 15px;
     font-size: 18px;
 }
 
