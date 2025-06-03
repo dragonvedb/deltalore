@@ -22,7 +22,7 @@ const board = document.querySelector('main')
 const reader = document.getElementById('reader-widget')
 const readerContent = document.querySelector('#reader-widget .content')
 const readerCloseButton = document.querySelector('#reader-widget .close-button')
-readerCloseButton.addEventListener('click', (e) => {
+readerCloseButton.addEventListener('pointerup', (e) => {
     reader.classList.add('hidden')
     if (selectedCard) document.getElementById(selectedCard).classList.remove("selected")
 })
@@ -39,8 +39,8 @@ const zoom = panzoom(board, {
     initialX: -666,
     initialY: -666,
     initialZoom: 0.150,
-    beforeWheel: function(e) { if (reader.matches(':hover')) return true }, // allow wheel-zoom only if altKey is down. Otherwise - ignore
-    beforeMouseDown: function(e) { if (reader.matches(':hover')) return true }, // allow mouse-down panning only if altKey is down. Otherwise - ignore
+    beforeWheel: function(e) { if (reader.matches(':hover')) return true },
+    beforeMouseDown: function(e) { if (reader.matches(':hover') || (reader.matches(':focus'))) return true },
 })
 
 const converter = new showdown.Converter()
@@ -55,7 +55,7 @@ function createNode(data) {
     node.textContent = data[data.type].replace('.md', '')
     if (data.type == 'file') {
         node.setAttribute('data-file', data.file)
-        node.addEventListener('click', e => {
+        node.addEventListener('pointerup', e => {
             if (selectedCard) document.getElementById(selectedCard).classList.remove("selected")
             selectedCard = e.target.getAttribute('id')
             loadFile(e.target.getAttribute('data-file'))
@@ -195,7 +195,6 @@ if (isToVertical) {
                 edgeInfoBox.textContent = e.target.getAttribute('data-label')
                 edgeInfoBox.classList.remove('hide')
             }
-            
         })
         path.addEventListener('mouseout', (e) => {
             edgeInfoBox.classList.add('hide')
