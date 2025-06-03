@@ -8,35 +8,34 @@ In more recent interpretations, the circle is an "Angel of Death" who will fulfi
 - _Both versions of the Prophecy seem to come true, depending on whether <a onclick="loadFile('Frisk.md')">Frisk</a> pursues True Pacifist or Genocide route_
 
 **IN DELTARUNE**, the Legend of Deltarune, said to have been foretold by time and space, is explained by Ralsei:
-
-Once upon a time, a LEGEND was whispered among shadows.
-It was a LEGEND of HOPE.
-It was a LEGEND of DREAMS.
-It was a LEGEND of LIGHT.
-It was a LEGEND of DARK.
-This is the legend of DELTA RUNE
-For millenia, LIGHT and DARK have lived in balance,
-Bringing peace to the WORLD.
-But if this harmony were to shatter...
-a terrible calamity would occur.
-The sky will run black with terror
-And the land will crack with fear.
-Then, her heart pounding...
-The EARTH will draw her final breath.
-Only then, shining with hope...
-Three HEROES appear at WORLDS' edge.
-A HUMAN,
-A MONSTER,
-And a PRINCE FROM THE DARK.
-Only they can seal the fountains
-And banish the ANGEL'S HEAVEN.
-Only then will balance be restored,
-And the WORLD saved from destruction.
-Today, the FOUNTAIN OF DARKNESS-
-The geyser that gives this land form-
-Stands tall at the center of the kingdom.
-But recently, another fountain has appeared on the horizon...
-And with it, the balance of LIGHT and DARK begins to shift...
+- Once upon a time, a LEGEND was whispered among shadows.
+- It was a LEGEND of HOPE.
+- It was a LEGEND of DREAMS.
+- It was a LEGEND of LIGHT.
+- It was a LEGEND of DARK.
+- This is the legend of DELTA RUNE
+- For millenia, LIGHT and DARK have lived in balance,
+- Bringing peace to the WORLD.
+- But if this harmony were to shatter...
+- a terrible calamity would occur.
+- The sky will run black with terror
+- And the land will crack with fear.
+- Then, her heart pounding...
+- The EARTH will draw her final breath.
+- Only then, shining with hope...
+- Three HEROES appear at WORLDS' edge.
+- A HUMAN,
+- A MONSTER,
+- And a PRINCE FROM THE DARK.
+- Only they can seal the fountains
+- And banish the ANGEL'S HEAVEN.
+- Only then will balance be restored,
+- And the WORLD saved from destruction.
+- Today, the FOUNTAIN OF DARKNESS-
+- The geyser that gives this land form-
+- Stands tall at the center of the kingdom.
+- But recently, another fountain has appeared on the horizon...
+- And with it, the balance of LIGHT and DARK begins to shift...
 
 The meaning of Delta Rune is not explained, but the winged circle likely also references the <a onclick="loadFile('Angel.md')">Angel</a>, while the three triangles might symbolize the three heroes, especially considering the coloured version found in Ralsei's castle.
 
