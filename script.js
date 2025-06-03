@@ -78,6 +78,7 @@ function loadFile(filename, id) {
         //html = html.replaceAll(/(\[\[)\w+\|/g).replaceAll('[[', '').replaceAll(']]', '')
         reader.classList.remove('hidden')
         readerContent.innerHTML = html
+        readerContent.scroll({top: 0})
 
         //document.getElementById(selectedCard).classList.add("selected")
     })
