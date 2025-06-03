@@ -4,26 +4,26 @@ One of them is written by <a onclick="loadFile('Alphys.md')">Alphys</a> and desc
 
 The second, more well-known one, can be seen by accessing hidden *room_gaster* and is presumably written by <a onclick="loadFile('Doctor W. D. Gaster.md')">Doctor W. D. Gaster</a>. The text prints out in shaking uppercase Wingdings font, while *<a onclick="loadFile('mus_smile.md')">mus_smile</a>* is playing:
 
-- _ENTRY NUMBER SEVENTEEN_
-- _DARK DARKER YET DARKER_
-- _THE DARKNESS KEEPS GROWING_
-- _THE SHADOWS CUTTING DEEPER_
-- _PHOTON READINGS NEGATIVE_
-- _THIS NEXT EXPERIMENT_
-- _SEEMS_
-- _VERY_
-- _VERY_
-- _INTERESTING_
-- _..._
-- _WHAT DO YOU TWO THINK_
+_ENTRY NUMBER SEVENTEEN_<br>
+_DARK DARKER YET DARKER_<br>
+_THE DARKNESS KEEPS GROWING_<br>
+_THE SHADOWS CUTTING DEEPER_<br>
+_PHOTON READINGS NEGATIVE_<br>
+_THIS NEXT EXPERIMENT_<br>
+_SEEMS_<br>
+_VERY_<br>
+_VERY_<br>
+_INTERESTING_<br>
+_..._<br>
+_WHAT DO YOU TWO THINK_
 
-	- _What experiment is Gaster talking about?_
-		- _The creation of a <a onclick="loadFile('Dark Worlds.md')">Dark World</a>?_
-			- _Or of DELTARUNE itself?_
-		- _Was this the experiment that ended his life?_
-	- _Who are the two people Gaster is addressing?_
-		- _<a onclick="loadFile('Sans.md')">Sans</a> and <a onclick="loadFile('Papyrus.md')">Papyrus</a>?_
-		- _Sans and <a onclick="loadFile('Alphys.md')">Alphys</a>?_
+- _What experiment is Gaster talking about?_
+	- _The creation of a <a onclick="loadFile('Dark Worlds.md')">Dark World</a>?_
+		- _Or of DELTARUNE itself?_
+	- _Was this the experiment that ended his life?_
+- _Who are the two people Gaster is addressing?_
+	- _<a onclick="loadFile('Sans.md')">Sans</a> and <a onclick="loadFile('Papyrus.md')">Papyrus</a>?_
+	- _Sans and <a onclick="loadFile('Alphys.md')">Alphys</a>?_
 
 **IN DELTARUNE**, the text of Entry 17 is referenced by <a onclick="loadFile('Seam.md')">Seam</a>. They say that after listening to <a onclick="loadFile('Jevil.md')">Jevil</a> (who might have communicated with Gaster at some point) their worldview became "darker, yet darker".
 

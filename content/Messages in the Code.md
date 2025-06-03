@@ -1,7 +1,7 @@
 **IN DELTARUNE**, there are a number of lines hidden in the game files, marked as *"unused"*. They are coming from someone trapped in a dark place.
 
-**The messages in Ch1:**
-Where...</br>
+**The messages in Ch1:**</br>
+_Where...</br>
 Where am I?</br>
 Hello...? Anyone...?</br>
 Is... is anybody out there...?</br>
@@ -10,17 +10,17 @@ Someone!? Anyone!? Can anyone hear me!?</br>
 It's dark.</br>
 It's so dark here.</br>
 Someone, anyone, if you can hear me...</br>
-Say something... please...</br>
+Say something... please...</br>_
 
-**The messages in Ch2:**
-No one can hear me, can they?</br>
+**The messages in Ch2:**</br>
+_No one can hear me, can they?</br>
 ...</br>
 I guess not.</br>
 To be honest, I'm not even sure I can hear myself.</br>
 It's so quiet here...</br>
 ... and yet, sometimes,</br>
 I swear I hear something...</br>
-Something like... scratching?</br>
+Something like... scratching?</br>_
 
 - _Who is saying these words?_
 	- _<a onclick="loadFile('December Holiday.md')">December Holiday</a>?_
@@ -31,11 +31,11 @@ Something like... scratching?</br>
 	- _Beyond time and space?_
 - _Where is the scratching coming from?_
 
-Additionally, while talking with <a onclick="loadFile('Spamton G. Spamton.md')">Spamton</a> in his shop, asking him about "FEAR" yields:
-WHAT ARE YOU AFRAID OF??? ACCORDING TO [Encyclopedia of Being Afraid]
-THERE'S NOTHING TO FEAR EXCEPT
-... ... can anyone hear me? Help...
-HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!!
-... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."
+Additionally, while talking with <a onclick="loadFile('Spamton G. Spamton.md')">Spamton</a> in his shop, asking him about "FEAR" yields:</br>
+_WHAT ARE YOU AFRAID OF??? ACCORDING TO [Encyclopedia of Being Afraid]</br>
+THERE'S NOTHING TO FEAR EXCEPT</br>
+... ... can anyone hear me? Help...</br>
+HUH??? WHAT?? NO, I DIDN'T HEAR ANYTHING JUST NOW!!!</br>
+... BUT IT SOUNDED LIKE THEY WERE TALKING TO YOU."_
 
 - _This seems to be the same person as in the messages above, though it's unclear how they are speaking through Spamton._

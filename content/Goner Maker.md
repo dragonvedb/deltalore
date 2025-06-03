@@ -1,13 +1,13 @@
-**IN DELTARUNE**, the Goner Maker sequence is the part of the game where the Player creates <a onclick="loadFile('Vessel.md')">a Vessel</a>. Its name in the game code is DEVICE_GONERMAKER.
+**IN DELTARUNE**, the Goner Maker sequence is the part of the game where the Player creates <a onclick="loadFile('Vessel.md')">a Vessel</a>. Its name in the game code is DEVICE\_GONERMAKER.
 
-The sequence is launched immediately after <a onclick="loadFile('Red Soul.md')">the Red Soul</a> appears and <a onclick="loadFile('Doctor W. D. Gaster.md')">Dr. Gaster</a> establishes connection with the Player. AUDIO_ANOTHERHIM starts playing and IMAGE_DEPTH appears in the background. Dr. Gaster informs the Player that the first thing they must do is create a Vessel.
+The sequence is launched immediately after <a onclick="loadFile('Red Soul.md')">the Red Soul</a> appears and <a onclick="loadFile('Doctor W. D. Gaster.md')">Dr. Gaster</a> establishes connection with the Player. AUDIO\_ANOTHERHIM starts playing and IMAGE\_DEPTH appears in the background. Dr. Gaster informs the Player that the first thing they must do is create a Vessel.
 
 The Player first constructs the Vessel's body choosing from several head, torso and leg options.
 
-Then, Gaster tells the Player to "shape its mind" as their own.
-The Player selects the Vessels favourite food ('Sweet', 'Soft', 'Sour', 'Salty', 'Pain' or 'Cold');
-their favourite blood type ('A', 'AB', 'B', 'C' or 'D'; note that the last three types don't exist);
-its favourite colour ('Red', 'Blue', 'Green' or 'Cyan');
+Then, Gaster tells the Player to "shape its mind" as their own.<br>
+The Player selects the Vessels favourite food ('Sweet', 'Soft', 'Sour', 'Salty', 'Pain' or 'Cold');<br>
+their favourite blood type ('A', 'AB', 'B', 'C' or 'D'; note that the last three types don't exist);<br>
+its favourite colour ('Red', 'Blue', 'Green' or 'Cyan');<br>
 and, finally, its gift ('Kindness', 'Mind', 'Ambition', 'Bravery' or 'Voice').
 
 Gaster asks the Player how they feel about their creation, with the clarification that it will not hear the response. The Player can choose between 'Love', 'Hope', 'Disgust' and 'Fear'.

@@ -45,7 +45,6 @@
 		{"id":"0ffa795e16ca7286","type":"file","file":"Depths.md","x":20,"y":-793,"width":387,"height":353,"color":"2"},
 		{"id":"c8d872e4efae9920","type":"file","file":"Sans.md","x":-817,"y":-912,"width":262,"height":359,"color":"2"},
 		{"id":"dd8b825f0361b955","type":"file","file":"Papyrus.md","x":-356,"y":-645,"width":272,"height":405,"color":"2"},
-		{"id":"43e475a69c6c385d","type":"file","file":"Noelle Holiday.md","x":1763,"y":-3664,"width":300,"height":379,"color":"2"},
 		{"id":"b9ca72ed61224249","type":"file","file":"Dess Holiday.md","x":2078,"y":-3662,"width":290,"height":375,"color":"2"},
 		{"id":"56ba6e8ea0267332","type":"file","file":"Rudy Holiday.md","x":1768,"y":-3970,"width":296,"height":293,"color":"2"},
 		{"id":"9b853934c2fbd910","type":"file","file":"Ms. Holiday.md","x":2078,"y":-3968,"width":288,"height":290,"color":"2"},
@@ -84,7 +83,8 @@
 		{"id":"77641d60824af171","type":"file","file":"Everyman.md","x":-722,"y":-2323,"width":235,"height":342,"color":"2"},
 		{"id":"bfe69eea58464280","type":"file","file":"Mysterious Men.md","x":-1015,"y":-1868,"width":176,"height":136},
 		{"id":"516702841ae84550","type":"file","file":"Starwalker.md","x":-517,"y":-1544,"width":239,"height":78},
-		{"id":"fc1278447ae8fbac","type":"file","file":"Alphys.md","x":-2082,"y":-1266,"width":343,"height":325,"color":"2"}
+		{"id":"fc1278447ae8fbac","type":"file","file":"Alphys.md","x":-2082,"y":-1266,"width":343,"height":325,"color":"2"},
+		{"id":"43e475a69c6c385d","type":"file","file":"Noelle Holiday.md","x":1762,"y":-3661,"width":300,"height":379,"color":"2"}
 	],
 	"edges":[
 		{"id":"d13cadfd1e0d8837","fromNode":"d51f0adf51d6e97a","fromSide":"bottom","toNode":"fc1278447ae8fbac","toSide":"right","color":"4","label":"Alphys replaced Gaster as Royal Scientist"},
@@ -165,7 +165,7 @@
 		{"id":"00de0d66081db72b","fromNode":"5ed71323885dd1eb","fromSide":"right","toNode":"105616972738d727","toSide":"left","color":"2","label":"Vessel might be the one leaving messages"},
 		{"id":"1c098e02e56c67be","fromNode":"86074b7064aa0067","fromSide":"bottom","toNode":"55b5b95c9a65f65a","toSide":"left","color":"2","label":"Someone interrupts the process and discards the Vessel"},
 		{"id":"53480c18a31d8ea9","fromNode":"07d4812778bde5bd","fromSide":"right","toNode":"bce93c78c44a5bac","toSide":"right","color":"4","label":"Red Soul controls Kris"},
-		{"id":"c85c9483b457c4fc","fromNode":"66d54804400bf7e1","fromSide":"top","toNode":"5636f049874ddcc1","toSide":"bottom","color":"4","label":"Ralsei wants to fullfil the Prophecy"},
+		{"id":"c85c9483b457c4fc","fromNode":"66d54804400bf7e1","fromSide":"top","toNode":"5636f049874ddcc1","toSide":"bottom","color":"4","label":"Ralsei reveals the Prophecy and wants to fullfil it"},
 		{"id":"52818df5433d6872","fromNode":"5636f049874ddcc1","fromSide":"top","toNode":"a6890c33ef8a66e4","toSide":"bottom","color":"4","label":"\"to banish\nAngel's Haven\""},
 		{"id":"8d345478c2fd4e58","fromNode":"c28a70ee790e8062","fromSide":"bottom","toNode":"789ccc2741d787ff","toSide":"top","toEnd":"none","color":"4","label":"Gerson is Alvin's father"},
 		{"id":"0eb4a16d621c748d","fromNode":"491ebddd7de9f80f","fromSide":"bottom","toNode":"2e7aa2adf964eaef","toSide":"left","color":"2","label":"One of the flowers resembles Flowey"},
