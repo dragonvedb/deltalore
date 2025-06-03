@@ -1,6 +1,6 @@
 **IN DELTARUNE**, the Depths is a term that refers to a hypothetical place where the darkness that shapes <a onclick="loadFile('Dark Worlds.md')">Dark Worlds</a> comes from, as well as to persistent association of Dark Worlds with water.
 
-The background image of the <a onclick="loadFile('Goner Maker.md')">Goner Maker sequence</a> is named 'IMAGES_DEPTH' and is a modified photo of the ocean waves.
+The background image of the <a onclick="loadFile('Goner Maker.md')">Goner Maker sequence</a> is named 'IMAGE_DEPTH' and is a modified photo of the ocean waves.
 
 The word 'depths' is used by <a onclick="loadFile('Jevil.md')">Jevil</a> when he says _"Soon, the Queen returns and hell's <a onclick="loadFile('The Roaring.md')">roar</a> bubbles from the depths"_.
 

@@ -128,7 +128,7 @@ path:hover {
     z-index: 3000;
     min-height: 30px; 
     width: max-content;
-    max-width: 150px;
+    max-width: 175px;
     padding: 10px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.85);

@@ -1,4 +1,4 @@
-let canvas = fetch(`DELTALORE_prod.canvas`)
+let canvas = fetch(`DELTALORE_prod 1.canvas`)
 .then(response => {
     if (!response.ok) { 
         throw new Error('Network response was not ok');
@@ -36,9 +36,9 @@ const zoom = panzoom(board, {
     //boundsPadding: 1,
     maxZoom: 1,
     minZoom: 0.1,
-    initialX: -425,
-    initialY: -525,
-    initialZoom: 0.125,
+    initialX: -666,
+    initialY: -666,
+    initialZoom: 0.150,
     beforeWheel: function(e) { if (reader.matches(':hover')) return true }, // allow wheel-zoom only if altKey is down. Otherwise - ignore
     beforeMouseDown: function(e) { if (reader.matches(':hover')) return true }, // allow mouse-down panning only if altKey is down. Otherwise - ignore
 })
@@ -148,25 +148,24 @@ function getAnchorPoint(node, side) {
         const minOffset = 150
         let controlPointX1, controlPointY1, controlPointX2, controlPointY2;
 
-        if (edge.fromSide === 'top' || edge.fromSide === 'bottom') {
-            controlPointX1 = fromPoint.x;
-            controlPointY1 = fromPoint.y + (toPoint.y - fromPoint.y) * curveTightness;
-        } else {
-            if (edge.fromSide === 'left'){
-                controlPointX1 = Math.min(fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness, fromPoint.x - minOffset);
-            } else controlPointX1 = Math.max(fromPoint.x + (toPoint.x - fromPoint.x) * curveTightness, fromPoint.x + minOffset);
-            controlPointY1 = fromPoint.y;
-        }
+const isFromVertical = edge.fromSide === 'top' || edge.fromSide === 'bottom';
+const isToVertical = edge.toSide === 'top' || edge.toSide === 'bottom';
 
-        if (edge.toSide === 'top' || edge.toSide === 'bottom') {
-            controlPointX2 = toPoint.x;
-            controlPointY2 = fromPoint.y + (toPoint.y - fromPoint.y) * (1 - curveTightness);
-        } else {
-            if (edge.toSide === 'left'){
-                controlPointX2 = Math.min(fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness), toPoint.x - minOffset);
-            } else controlPointX2 = Math.max(fromPoint.x + (toPoint.x - fromPoint.x) * (1 - curveTightness), toPoint.x + minOffset);
-            controlPointY2 = toPoint.y;
-        }
+if (isFromVertical) {
+    controlPointX1 = fromPoint.x;
+    controlPointY1 = fromPoint.y + (edge.fromSide === 'top' ? -minOffset : minOffset);
+} else {
+    controlPointX1 = fromPoint.x + (edge.fromSide === 'left' ? -minOffset : minOffset);
+    controlPointY1 = fromPoint.y;
+}
+
+if (isToVertical) {
+    controlPointX2 = toPoint.x;
+    controlPointY2 = toPoint.y + (edge.toSide === 'top' ? -minOffset : minOffset);
+} else {
+    controlPointX2 = toPoint.x + (edge.toSide === 'left' ? -minOffset : minOffset);
+    controlPointY2 = toPoint.y;
+}
   
         const d = `M ${fromPoint.x} ${fromPoint.y} C ${controlPointX1} ${controlPointY1}, ${controlPointX2} ${controlPointY2}, ${toPoint.x} ${toPoint.y}`;
   
