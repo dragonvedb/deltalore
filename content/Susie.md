@@ -2,7 +2,7 @@
 
 She is a relatively new student in the school, but has already developed a reputation as a bully and a troublemaker, close to being expelled. Kris was her target more often then others; during one encounter between them, Susie threatened to "make Kris disappear", and Kris responded with something that shocked Susie and forced her to back off.
 
-On the other hand, Susie never picked on <a onclick="loadFile('Noelle.md')">Noelle</a> (to latter's disappointment). Despite this, she seems to be mostly oblivious to Noelle's crush on her, and unsure about her own felings.
+On the other hand, Susie never picked on <a onclick="loadFile('Noelle Holiday.md')">Noelle</a> (to latter's disappointment). Despite this, she seems to be mostly oblivious to Noelle's crush on her, and unsure about her own felings.
 
 Susie's parents are never mentioned and she doesn't call them when asked to. She aslo appears to be perpetually hungry and even tries to consume inedible objects, like chalk. This might imply that she has a bad home life or is homeless.
 

@@ -5,7 +5,7 @@ Ralsei is the ruler of the Castle Town <a onclick="loadFile('Dark Worlds.md')">D
 Ralsei is committed to fulfiling the Prophecy and averting <a onclick="loadFile('The Roaring.md')">the Roaring</a>. He dislikes violence and suggest that Kris spare enemies instead of fighting them. At the same time, he constantly emphasises Kris's freedom to decide on their own course of action and is extremely accomodating of their choices, even when he disagrees with or is hurt by them. He believes that serving Lightners should be Darkner's only purpose in life.
 
 Ralsei shows the most fondness towards <a onclick="loadFile('Kris.md')">Kris</a>. He blushes if Kris comes close to him, which is a unique interaction.
-- _Kris, as demostrated via the Name Tea, seems to feel more neutral about Ralsei, but the Player can force them to feign affection on many occasions._
+- _Kris, as demonstrated via the Name Tea, seems to feel more neutral about Ralsei, but the Player can force them to feign affection on many occasions._
 
 Ralsei's name is an anagram of <a onclick="loadFile('Asriel.md')">Asriel</a>, Kris's brother. The two look similar, though Ralsei's face and fur colour are concealed until the end of Ch1.
 - _Ralsei is also the one who explains battle mechanics, which is the role <a onclick="loadFile('Flowey.md')">Flowey</a> played in UT -- down to nearly the same phrazing ("This is your <a onclick="loadFile('Souls.md')">SOUL</a>, the very culmination of your being!")._

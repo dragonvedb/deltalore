@@ -1,4 +1,4 @@
-**IN DELTARUNE**, the Device is a specualtive name for the medium through which <a onclick="loadFile('Red Soul.md')">the Player</a> in connected to the world of the game. It seems to be created and/or operated by <a onclick="loadFile('Doctor W. D. Gaster.md')">Dr. Gaster</a>.
+**IN DELTARUNE**, the Device is a specualtive name for the medium through which <a onclick="loadFile('Red Soul.md')">the Player</a> is connected to the world of the game. It seems to be created and/or operated by <a onclick="loadFile('Doctor W. D. Gaster.md')">Dr. Gaster</a>.
 
 In the game code, files related to the Device follow a special naming convention: they are written in all-caps, use underscore to separate words and have special prefixes depending on file type. Examples include DEVICE_CONTACT, <a onclick="loadFile('Goner Maker.md')">DEVICE_GONERMAKER</a>, <a onclick="loadFile('Depths.md')">IMAGE_DEPTH</a>, <a onclick="loadFile('Name Selector.md')">DEVICE_NAMER</a>, <a onclick="loadFile('Sound Test.md')">AUDIO_ANOTHERHIM</a> and so on.
 
