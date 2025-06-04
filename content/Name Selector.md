@@ -2,7 +2,7 @@
 
 **IN UNDERTALE**, inputting the names of some characters yields unique responces. The names <a onclick="loadFile('Alphys.md')">"Alphys"</a>, <a onclick="loadFile('Asgore.md')">"Asgore"</a>, <a onclick="loadFile('Asriel.md')">"Asriel"</a>, <a onclick="loadFile('Flowey.md')">"FLowey"</a>, <a onclick="loadFile('Sans.md')">"Sans"</a>, <a onclick="loadFile('Toriel.md')">"Toriel"</a> and <a onclick="loadFile('Undyne.md')">"Undyne"</a> cannot be selected at all.
 
-Selecting the name <a onclick="loadFile('The Fallen Child (Chara).md')">"Chara" yields "The true name." The meaning of this is unclear; it might refer to the fact that the Fallen Child's sprites are named "truechara" in the game files (as opposed to "mainchara", <a onclick="loadFile('Frisk.md')">Frisk</a>).
+Selecting the name <a onclick="loadFile('The Fallen Child (Chara).md')">"Chara"</a> yields "The true name." The meaning of this is unclear; it might refer to the fact that the Fallen Child's sprites are named "truechara" in the game files (as opposed to "mainchara", <a onclick="loadFile('Frisk.md')">Frisk</a>).
 
 Inputting the name <a onclick="loadFile('Doctor W. D. Gaster.md')">"Gaster"</a> restarts the game as soon as the last character is entered.
 
