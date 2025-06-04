@@ -189,7 +189,7 @@
 		{"id":"7b65cea343a87d26","fromNode":"bfe69eea58464280","fromSide":"bottom","toNode":"9473156a6b5c71ae","toSide":"left"},
 		{"id":"95b53947a7b7a3cf","fromNode":"9be315dad464f895","fromSide":"right","toNode":"57dba4e2e868d6f2","toSide":"top","color":"2","label":"Talks about 'Suzy'; insists Frisk should meet her"},
 		{"id":"e50a496362d5ea07","fromNode":"6fb5d0170813639c","fromSide":"right","toNode":"802fb2eabe6c5e9b","toSide":"left","color":"2","label":"Poem seems to describe the Mystery Man"},
-		{"id":"580ec94b18c6d135","fromNode":"790ab8a0a16940e8","fromSide":"right","toNode":"43e475a69c6c385d","toSide":"left","color":"2","label":"Noelle received a strange egg inside a game"},
+		{"id":"580ec94b18c6d135","fromNode":"790ab8a0a16940e8","fromSide":"right","toNode":"43e475a69c6c385d","toSide":"left","color":"2","label":"Noelle received a strange egg in a video game"},
 		{"id":"222544a170f3250a","fromNode":"86074b7064aa0067","fromSide":"bottom","toNode":"f43023f5fdf58365","toSide":"top","color":"4","label":"Name selection is a part of the process"},
 		{"id":"2fd6a42220507ddf","fromNode":"2519afe04ba5e76a","fromSide":"top","toNode":"c28a70ee790e8062","toSide":"left","color":"4","label":"Alphys replaced Gerson as teacher"},
 		{"id":"3437739af49b9dbf","fromNode":"b2cfbf0f0e7a1bd9","fromSide":"right","toNode":"a7b84c962aca9e67","toSide":"left","color":"2","label":"Shares eye colours; FRIEND appears in basement with Spamton NEO's body"},
