@@ -2,7 +2,9 @@
 
 In the game code, files related to the Device follow a special naming convention: they are written in all-caps, use underscore to separate words and have special prefixes depending on file type. Examples include DEVICE_CONTACT, <a onclick="loadFile('Goner Maker.md')">DEVICE\_GONERMAKER</a>, <a onclick="loadFile('Name Selector.md')">DEVICE\_NAMER</a>, <a onclick="loadFile('Depths.md')">IMAGE\_DEPTH</a>, <a onclick="loadFile('FRIEND.md')">IMAGE\_FRIEND</a>,  <a onclick="loadFile('Sound Test.md')">AUDIO\_ANOTHERHIM</a> and so on.
 
-Saving and loading is managed via DEVICE_MENU. Before Ch1 is completed, this menu has a stark black-green interface and features all-caps messages that seems to be written by Dr. Gaster. For instance, "THE DIVISION IS COMPLETE." displays when the player copies a savefile to an empty slot; "IT IS BARREN AND CANNOT BE COPIED." when an empty slot is selected to be copied; "IT WAS AS IF IT WAS NEVER THERE AT ALL." when a save file is erased.
+Saving and loading is managed via DEVICE_MENU. Before Ch1 is completed, this menu has a stark black-green interface and features all-caps messages that seems to be written by Dr. Gaster. For instance, "THE DIVISION IS COMPLETE." displays when the player copies a savefile to an empty slot;<br>
+"IT IS BARREN AND CANNOT BE COPIED." when an empty slot is selected to be copied;<br>
+"IT WAS AS IF IT WAS NEVER THERE AT ALL." when a save file is erased.
 - _There are several unusual hidden messages:_
     - _Whenever the player chooses a save file for deletion and then cancels, a hidden 'threat' variable increases by 1. Increasing it to 10 yeilds "VERY INTERESTING."_
     - _Copying a save file into two other slots, so that all three are identical, yields "PREPARATIONS ARE COMPLETE."_
