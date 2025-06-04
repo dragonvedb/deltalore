@@ -82,9 +82,9 @@
 		{"id":"790ab8a0a16940e8","type":"file","file":"Egg.md","x":-460,"y":-1968,"width":209,"height":124},
 		{"id":"77641d60824af171","type":"file","file":"Everyman.md","x":-722,"y":-2323,"width":235,"height":342,"color":"2"},
 		{"id":"bfe69eea58464280","type":"file","file":"Mysterious Men.md","x":-1015,"y":-1868,"width":176,"height":136},
-		{"id":"516702841ae84550","type":"file","file":"Starwalker.md","x":-517,"y":-1544,"width":239,"height":78},
 		{"id":"fc1278447ae8fbac","type":"file","file":"Alphys.md","x":-2082,"y":-1266,"width":343,"height":325,"color":"2"},
-		{"id":"43e475a69c6c385d","type":"file","file":"Noelle Holiday.md","x":1762,"y":-3661,"width":300,"height":379,"color":"2"}
+		{"id":"43e475a69c6c385d","type":"file","file":"Noelle Holiday.md","x":1762,"y":-3661,"width":300,"height":379,"color":"2"},
+		{"id":"516702841ae84550","type":"file","file":"Starwalker.md","x":-475,"y":-1506,"width":239,"height":78}
 	],
 	"edges":[
 		{"id":"d13cadfd1e0d8837","fromNode":"d51f0adf51d6e97a","fromSide":"bottom","toNode":"fc1278447ae8fbac","toSide":"right","color":"4","label":"Alphys replaced Gaster as Royal Scientist"},
@@ -193,6 +193,7 @@
 		{"id":"222544a170f3250a","fromNode":"86074b7064aa0067","fromSide":"bottom","toNode":"f43023f5fdf58365","toSide":"top","color":"4","label":"Name selection is a part of the process"},
 		{"id":"2fd6a42220507ddf","fromNode":"2519afe04ba5e76a","fromSide":"top","toNode":"c28a70ee790e8062","toSide":"left","color":"4","label":"Alphys replaced Gerson as teacher"},
 		{"id":"3437739af49b9dbf","fromNode":"b2cfbf0f0e7a1bd9","fromSide":"right","toNode":"a7b84c962aca9e67","toSide":"left","color":"2","label":"Shares eye colours; FRIEND appears in basement with Spamton NEO's body"},
-		{"id":"04fef33e805e4a90","fromNode":"73d4a53013a5182a","fromSide":"bottom","toNode":"0ffa795e16ca7286","toSide":"top","color":"4","label":"Background image of DEVICE_GONERMAKER is titled 'IMAGE_DEPTH'"}
+		{"id":"04fef33e805e4a90","fromNode":"73d4a53013a5182a","fromSide":"bottom","toNode":"0ffa795e16ca7286","toSide":"top","color":"4","label":"Background image of DEVICE_GONERMAKER is titled 'IMAGE_DEPTH'"},
+		{"id":"9164a50e4cc0de9a","fromNode":"516702841ae84550","fromSide":"top","toNode":"9473156a6b5c71ae","toSide":"bottom","color":"2","label":"Starwalker appears near the room with the tree"}
 	]
 }
