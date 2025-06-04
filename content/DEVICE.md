@@ -9,6 +9,10 @@ Saving and loading is managed via DEVICE_MENU. Before Ch1 is completed, this men
         - _Continuing to copy files afterwards yields "WHAT AN INTERESTING BEHAVIOUR."_
 
 The game over screen is named DEVICE_FAILURE.
-In Ch1, it says "IT APPEARS YOU HAVE REACHED AN END. WILL YOU TRY AGAIN?" or "WILL YOU PERSIST?". Selecting 'YES' yields "THEN, THE FUTURE IS IN YOUR HANDS.". Selecting 'NO' yields "THEN THE WORLD WAS COVERED IN DARKNESS."
+
+In Ch1, it says "IT APPEARS YOU HAVE REACHED AN END. WILL YOU TRY AGAIN?" or "WILL YOU PERSIST?". Selecting 'YES' yields "THEN, THE FUTURE IS IN YOUR HANDS.". 
+
+Selecting 'NO' yields "THEN THE WORLD WAS COVERED IN DARKNESS."
+
 In Ch2, the initial question is replaced with either <a onclick="loadFile('Ralsei.md')">Ralsei's</a> or <a onclick="loadFile('Susie.md')">Susie's</a> pleading for <a onclick="loadFile('Kris.md')">Kris</a> to not give up. Choosing to give up still show the message about the world being covered by darkness.
 - _It seems that the message appearing when Kris gives up refers to <a onclick="loadFile('The Roaring.md')">the Roaring</a>._
