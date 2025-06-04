@@ -16,7 +16,9 @@ With <a onclick="loadFile('Seam.md')">Seam's</a> help, <a onclick="loadFile('Kri
 - _One of Jevil's attacks has a small chance to involve a duck with the head of the <a onclick="loadFile('Everyman.md')">Everyman</a>. The significance of this is unknown._
 
 At the end of the fight, Jevils makes an ominous prediction.
+
 If defeated peacefully, he says *"FROM NOW, A NIGHTMARE WILL AWAKEN IN YOUR HEARTS. IN THE SHADOW OF THE KNIGHT'S HAND..."* and gives Kris the Devilstail armour.
+
 If defeated violently, he says *"THE HAND OF THE KNIGHT IS DRIFTING FORWARD. SOON, THE "QUEEN" RETURNS, AND HELL'S ROAR BUBBLES FROM THE DEPTHS..."* and transforms into the Devilsknife weapon.
 - _Both predictions specifically focus on the Knight's hand. This trend continues in Ch2, where the hand is mentioned two more times and a picture of hand holding a knife is used as a stand-in for the Knight._
 - _The second prediction has what is likely the earliest mention of <a onclick="loadFile('The Roaring.md')">the Roaring</a> and one of the very few references to <a onclick="loadFile('Depths.md')">the Depths</a>._
